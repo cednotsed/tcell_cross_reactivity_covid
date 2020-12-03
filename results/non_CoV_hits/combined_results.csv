@@ -1,0 +1,775 @@
+sequence,qseqid,sseqid,Description,Scientific Name,Common Name,pident,qcov,mismatches,eval,sstart,send,qstart,qend
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,PSN85680.1,hypothetical protein B9Q02_05405 [Candidatus Marsarchaeota G1 archaeon BE_D],Candidatus Marsarchaeota G1 archaeon BE_D,Candidatus Marsarchaeota G1 archaeon BE_D,75,100,2,121,88,102,1,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,PSN83646.1,hypothetical protein B9Q01_04015 [Candidatus Marsarchaeota G1 archaeon OSP_D],Candidatus Marsarchaeota G1 archaeon OSP_D,Candidatus Marsarchaeota G1 archaeon OSP_D,75,100,2,121,88,102,1,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_095299245.1,diaminopimelate epimerase [Helicobacter sp. 12S02232-10],Helicobacter sp. 12S02232-10,Helicobacter sp. 12S02232-10,60,100,6,122,89,103,1,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_164950238.1,hypothetical protein [Clostridium sp. FP2],Clostridium sp. FP2,Clostridium sp. FP2,73.333,100,1,7.5,139,150,1,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_164943892.1,hypothetical protein [Clostridium sp. FP1],Clostridium sp. FP1,Clostridium sp. FP1,73.333,100,1,7.5,139,150,1,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_124999223.1,hypothetical protein [Clostridium tagluense],Clostridium tagluense,Clostridium tagluense,73.333,100,1,7.5,139,150,1,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,XP_015179950.1,PREDICTED: scaffold protein salvador-like isoform X1 [Polistes dominula],Polistes dominula,European paper wasp,60,100,3,30,6,17,1,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,XP_015179951.1,PREDICTED: scaffold protein salvador-like isoform X2 [Polistes dominula],Polistes dominula,European paper wasp,60,100,3,30,6,17,1,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,KIA88237.1,hypothetical protein OA86_12015 [Chryseobacterium jeonii],Chryseobacterium jeonii,Chryseobacterium jeonii,53.333,100,7,61,59,73,1,15
+LLALHRSYLTPGDSS,mateus_S_241,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,2.06e-05,272,286,1,15
+LLALHRSYLTPGDSS,mateus_S_241,OQB88979.1,Atrazine chlorohydrolase [Verrucomicrobia bacterium ADurb.Bin118],Verrucomicrobia bacterium ADurb.Bin118,Verrucomicrobia bacterium ADurb.Bin118,66.667,100,5,86,257,271,1,15
+LLALHRSYLTPGDSS,mateus_S_241,MTI88861.1,CHAT domain-containing protein [Balneolaceae bacterium],Balneolaceae bacterium,Balneolaceae bacterium,66.667,100,5,121,879,893,1,15
+LLALHRSYLTPGDSS,mateus_S_241,MAL18623.1,hypothetical protein [Balneola sp.],Balneola sp.,Balneola sp.,66.667,100,5,172,874,888,1,15
+IGINITRFQTLLALH,mateus_S_231,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,3.67e-06,262,276,1,15
+AYSNNSIAIPTNFTI,mateus_S_706,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,3.67e-06,737,751,1,15
+GINASVVNIQKEIDR,mateus_S_1171,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,7.31e-06,1202,1216,1,15
+SIIAYTMSLGAENSV,mateus_S_691,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,1.03e-05,722,736,1,15
+WTFGAGAALQIPFAM,mateus_S_886_non_RBD,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,1.3e-06,917,931,1,15
+GAISSVLNDILSRLD,mateus_S_971,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,4.11e-05,1002,1016,1,15
+SIAIPTNFTISVTTE,mateus_S_711,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,1.03e-05,742,756,1,15
+SIAIPTNFTISVTTE,mateus_S_711,MBE8222039.1,protease-like activity factor CPAF [Bdellovibrionales bacterium],Bdellovibrionales bacterium,Bdellovibrionales bacterium,64.706,100,4,61,14,30,1,15
+LPQGFSALEPLVDLP,mateus_S_216,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,1.03e-05,247,261,1,15
+FNFNGLTGTGVLTES,mateus_S_541,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,2.06e-05,572,586,1,15
+GGNYNYLYRLFRKSN,mateus_S_446,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,6.53e-07,477,491,1,15
+LITGRLQSLQTYVTQ,mateus_S_996,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,7.31e-06,1027,1041,1,15
+TDEMIAQYTSALLAG,mateus_S_866,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,7.31e-06,897,911,1,15
+HWFVTQRNFYEPQII,mateus_S_1101,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,2.08e-08,1132,1146,1,15
+DDQIGYYRRATRRIR,mateus_N_81,ETW94284.1,hypothetical protein ETSY2_50020 [Candidatus Entotheonella gemina],Candidatus Entotheonella gemina,Candidatus Entotheonella gemina,57.895,100,4,21,123,141,1,15
+DDQIGYYRRATRRIR,mateus_N_81,WP_143310249.1,DUF4231 domain-containing protein [Candidatus Entotheonella palauensis],Candidatus Entotheonella palauensis,Candidatus Entotheonella palauensis,57.895,100,4,21,120,138,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMC42743.1,hypothetical protein E6J31_03545 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMC95737.1,hypothetical protein E6J22_02950 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMC95065.1,hypothetical protein E6J11_14265 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,OLB39817.1,hypothetical protein AUH05_10140 [Ktedonobacter sp. 13_2_20CM_53_11],Ktedonobacter sp. 13_2_20CM_53_11,Ktedonobacter sp. 13_2_20CM_53_11,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMD78671.1,hypothetical protein E6I97_06465 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMC63516.1,hypothetical protein E6J21_04855 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMB85395.1,hypothetical protein E6J48_00435 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMD34585.1,hypothetical protein E6J04_06510 [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TMC18609.1,acyltransferase [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,66.667,100,3,43,54,71,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,HGG70926.1,TPA: hypothetical protein [Bacteroidia bacterium],Bacteroidia bacterium,Bacteroidia bacterium,66.667,100,5,61,28,42,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,CCY89428.1,putative uncharacterized protein [Mycoplasma sp. CAG:956],Mycoplasma sp. CAG:956,Mycoplasma sp. CAG:956,66.667,100,2,86,104,115,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_011461441.1,PREDICTED: F-box/LRR-repeat protein 3-like isoform X1 [Fragaria vesca subsp. vesca],Fragaria vesca subsp. vesca,Fragaria vesca subsp. vesca,66.667,100,0,121,8,17,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_004296043.2,PREDICTED: F-box/LRR-repeat protein 3-like isoform X2 [Fragaria vesca subsp. vesca],Fragaria vesca subsp. vesca,Fragaria vesca subsp. vesca,66.667,100,0,121,8,17,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_035274437.1,semaphorin-7A-like isoform X1 [Anguilla anguilla],Anguilla anguilla,European eel,61.111,100,0,121,618,631,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_035274438.1,semaphorin-7A-like isoform X2 [Anguilla anguilla],Anguilla anguilla,European eel,61.111,100,0,121,583,596,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KAF7352572.1,hypothetical protein [Mycena venus],Mycena venus,Mycena venus,55,100,4,122,217,236,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,HIE03056.1,TPA: prohibitin family protein [Thiotrichaceae bacterium],Thiotrichaceae bacterium,Thiotrichaceae bacterium,60,100,2,122,20,30,1,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,MRS03551.1,EamA family transporter [bacterium],bacterium,bacterium,66.667,100,5,122,140,154,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_187028053.1,glycosyltransferase [Dysosmobacter sp. NSJ-60],Dysosmobacter sp. NSJ-60,Dysosmobacter sp. NSJ-60,70.588,100,3,7.5,142,158,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_037678384.1,MMPL family transporter [Streptomyces albus],Streptomyces albus,Streptomyces albus,57.143,100,2,11,455,474,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,KZT25301.1,FAD/NAD(P)-binding domain-containing protein [Neolentinus lepideus HHB14362 ss-1],Neolentinus lepideus HHB14362 ss-1,Neolentinus lepideus HHB14362 ss-1,66.667,100,1,15,329,339,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_132765625.1,FAD-dependent monooxygenase [Schlegelella thermodepolymerans],Schlegelella thermodepolymerans,Schlegelella thermodepolymerans,73.333,100,1,15,108,119,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_104356034.1,FAD-dependent monooxygenase [Schlegelella thermodepolymerans],Schlegelella thermodepolymerans,Schlegelella thermodepolymerans,73.333,100,1,15,108,119,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,CCX41178.1,tRNA pseudouridine synthase B [Clostridium sp. CAG:1024],Clostridium sp. CAG:1024,Clostridium sp. CAG:1024,58.333,100,1,15,261,284,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_125625183.1,MMPL family transporter [Streptomyces sp. WAC 00631],Streptomyces sp. WAC 00631,Streptomyces sp. WAC 00631,57.143,100,2,21,455,474,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,NQX73972.1,hypothetical protein [Epibacterium sp.],Epibacterium sp.,Epibacterium sp.,62.5,100,5,21,432,447,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_158900178.1,FAD-dependent monooxygenase [Sphingorhabdus lacus],alpha proteobacterium IMCC1753,alpha proteobacterium IMCC1753,73.333,100,1,21,151,162,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,MAU62610.1,serine/threonine protein kinase [Parvibaculum sp.],Parvibaculum sp.,Parvibaculum sp.,51.852,100,1,43,320,346,1,15
+PDILRVYANLGERVR,mateus_NSP12_4561,HAE55222.1,TPA: hypothetical protein [Acidimicrobiaceae bacterium],Acidimicrobiaceae bacterium,Acidimicrobiaceae bacterium,51.852,100,1,43,344,370,1,15
+GKIADYNYKLPDDFT,mateus_S_416,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,9.23e-07,447,461,1,15
+YNYKLPDDFTGCVIA,mateus_S_421,6ZGH_A,"Chain A, Receptor-type tyrosine-protein phosphatase S,Spike glycoprotein,Fibritin [Gallus gallus]",Gallus gallus,chicken,100,100,0,4.63e-07,452,466,1,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,XP_028026532.1,probable tRNA (uracil-O(2)-)-methyltransferase [Bombyx mandarina],Bombyx mandarina,wild silkworm,73.333,93,3,43,525,539,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,CAB3255284.1,unnamed protein product [Arctia plantaginis],Arctia plantaginis,Arctia plantaginis,73.333,93,3,43,521,535,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,CAB3228615.1,unnamed protein product [Arctia plantaginis],Arctia plantaginis,Arctia plantaginis,73.333,93,3,43,521,535,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,KOB70568.1,Uncharacterized protein OBRU01_15069 [Operophtera brumata],Operophtera brumata,winter moth,73.333,93,3,43,525,539,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,XP_021206449.1,probable tRNA (uracil-O(2)-)-methyltransferase [Bombyx mori],Bombyx mori,domestic silkworm,73.333,93,3,43,257,271,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,SEW36598.1,"ferric-dicitrate binding protein FerR, regulates iron transport through sigma-19 [Chitinophaga arvensicola]",Chitinophaga arvensicola,Chitinophaga arvensicola,64.286,93,5,172,202,215,2,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_089894944.1,FecR domain-containing protein [Chitinophaga arvensicola],Chitinophaga arvensicola,Chitinophaga arvensicola,64.286,93,5,172,186,199,2,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,NLI36268.1,DUF4974 domain-containing protein [Bacteroidales bacterium],Bacteroidales bacterium,Bacteroidales bacterium,71.429,93,4,244,232,245,2,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,VDI70726.1,tRNASer (uridine44-2'-O)-methyltransferase [Mytilus galloprovincialis],Mytilus galloprovincialis,Mediterranean mussel,68.75,93,3,244,549,564,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,VDI55156.1,tRNASer (uridine44-2'-O)-methyltransferase [Mytilus galloprovincialis],Mytilus galloprovincialis,Mediterranean mussel,68.75,93,3,244,562,577,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,VDI70727.1,tRNASer (uridine44-2'-O)-methyltransferase [Mytilus galloprovincialis],Mytilus galloprovincialis,Mediterranean mussel,68.75,93,3,244,559,574,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,HHZ20794.1,TPA: diguanylate cyclase [Firmicutes bacterium],Firmicutes bacterium,Firmicutes bacterium,64.286,93,5,244,776,789,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_067558857.1,transcription-repair coupling factor [Oceanibaculum pacificum],Oceanibaculum pacificum,Oceanibaculum pacificum,50,93,2,244,1115,1138,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_015869364.1,WecB/TagA/CpsF family glycosyltransferase [Kosmotoga olearia],Kosmotoga olearia,Kosmotoga olearia,64.706,93,3,15,28,44,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_063728707.1,WecB/TagA/CpsF family glycosyltransferase [Kosmotoga sp. DU53],Kosmotoga sp. DU53,Kosmotoga sp. DU53,64.706,93,3,15,28,44,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_100294653.1,PilZ domain-containing protein [Aeromonas cavernicola],Aeromonas cavernicola,Aeromonas cavernicola,64.286,93,2,86,95,105,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,NWG19281.1,oligoendopeptidase F [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,56,93,0,86,288,312,2,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_001963327.1,hypothetical protein [Vibrio cholerae],Vibrio cholerae,Vibrio cholerae,71.429,93,3,122,426,438,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_020583004.1,hypothetical protein [Endozoicomonas elysicola],Endozoicomonas elysicola,Endozoicomonas elysicola,71.429,93,3,122,426,438,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,CAB3800220.1,hypothetical protein LMG27177_04758 [Paraburkholderia fynbosensis],Paraburkholderia fynbosensis,Paraburkholderia fynbosensis,50,93,5,122,120,137,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_175163547.1,helix-turn-helix domain-containing protein [Paraburkholderia fynbosensis],Paraburkholderia fynbosensis,Paraburkholderia fynbosensis,50,93,5,122,110,127,1,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_168664135.1,helix-turn-helix domain-containing protein [Burkholderia sp. SG-MS1],Burkholderia sp. SG-MS1,Burkholderia sp. SG-MS1,50,93,5,122,110,127,1,14
+LLALHRSYLTPGDSS,mateus_S_241,KAF5331434.1,hypothetical protein D9611_011907 [Coprinellus angulatus],Coprinellus angulatus,Coprinellus angulatus,78.571,93,1,21,334,345,1,14
+LLALHRSYLTPGDSS,mateus_S_241,XP_002541666.1,predicted protein [Uncinocarpus reesii 1704],Uncinocarpus reesii 1704,Uncinocarpus reesii 1704,85.714,93,1,30,390,402,2,15
+LLALHRSYLTPGDSS,mateus_S_241,KAF6744955.1,hypothetical protein DFP72DRAFT_927273 [Coprinellus angulatus],Coprinellus angulatus,Coprinellus angulatus,78.571,93,1,43,334,345,1,14
+LLALHRSYLTPGDSS,mateus_S_241,HBT02850.1,TPA: alpha-glucosidase [Citreicella sp.],Citreicella sp.,Citreicella sp.,71.429,93,4,172,332,345,1,14
+LLALHRSYLTPGDSS,mateus_S_241,WP_089845542.1,hypothetical protein [Salipiger marinus],Salipiger marinus,Salipiger marinus,71.429,93,4,172,332,345,1,14
+LLALHRSYLTPGDSS,mateus_S_241,HBM60694.1,TPA: alpha-glucosidase [Citreicella sp.],Citreicella sp.,Citreicella sp.,71.429,93,4,172,186,199,1,14
+SIAIPTNFTISVTTE,mateus_S_711,OUW77651.1,hypothetical protein CBD72_00490 [Flavobacteriaceae bacterium TMED212],Flavobacteriaceae bacterium TMED212,Flavobacteriaceae bacterium TMED212,64.286,93,5,86,3041,3054,1,14
+SIAIPTNFTISVTTE,mateus_S_711,QGV12787.1,spike protein [Sus scrofa],Sus scrofa,pig,64.286,93,5,86,782,795,2,15
+SIAIPTNFTISVTTE,mateus_S_711,QGV12785.1,spike protein [Sus scrofa],Sus scrofa,pig,64.286,93,5,86,782,795,2,15
+SIAIPTNFTISVTTE,mateus_S_711,QGV12783.1,spike protein [Sus scrofa],Sus scrofa,pig,64.286,93,5,86,782,795,2,15
+SIAIPTNFTISVTTE,mateus_S_711,QGV12788.1,spike protein [Sus scrofa],Sus scrofa,pig,64.286,93,5,86,782,795,2,15
+SIAIPTNFTISVTTE,mateus_S_711,QGV12786.1,spike protein [Sus scrofa],Sus scrofa,pig,64.286,93,5,86,782,795,2,15
+SIAIPTNFTISVTTE,mateus_S_711,QGV12784.1,spike protein [Sus scrofa],Sus scrofa,pig,64.286,93,5,86,782,795,2,15
+DDQIGYYRRATRRIR,mateus_N_81,WP_091691986.1,hypothetical protein [Algoriphagus locisalis],Algoriphagus locisalis,Algoriphagus locisalis,60,93,2,15,21,40,2,15
+DDQIGYYRRATRRIR,mateus_N_81,NBC02027.1,flagellar filament capping protein FliD [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,71.429,93,1,43,429,439,1,14
+DDQIGYYRRATRRIR,mateus_N_81,MBL67496.1,RNA polymerase subunit sigma-24 [Verrucomicrobiales bacterium],Verrucomicrobiales bacterium,Verrucomicrobiales bacterium,71.429,93,1,43,98,108,2,15
+DDQIGYYRRATRRIR,mateus_N_81,NBB85059.1,flagellar filament capping protein FliD [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,71.429,93,1,43,54,64,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TLY48683.1,multidrug efflux MFS transporter [Gammaproteobacteria bacterium],Gammaproteobacteria bacterium,Gammaproteobacteria bacterium,78.571,93,2,0.94,88,100,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,NLU23975.1,adenosylcobinamide-GDP ribazoletransferase [Clostridiales bacterium],Clostridiales bacterium,Clostridiales bacterium,78.571,93,0,1.9,118,128,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_115961745.1,MFS transporter [Agromyces sp. OV568],Agromyces sp. OV568,Agromyces sp. OV568,60,93,2,11,187,206,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_129232468.1,MFS transporter [Agromyces fucosus],Agromyces fucosus,Agromyces fucosus,60,93,2,11,187,206,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KAF8567920.1,hypothetical protein P879_04962 [Paragonimus westermani],Paragonimus westermani,Paragonimus westermani,80,93,0,21,689,701,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,MBE3557348.1,hypothetical protein [Firmicutes bacterium],Firmicutes bacterium,Firmicutes bacterium,71.429,93,3,30,503,515,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_150119637.1,hypothetical protein [Collimonas pratensis],Collimonas pratensis,Collimonas pratensis,71.429,93,4,30,33,46,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_152249461.1,hypothetical protein [Xanthomonas maliensis],Xanthomonas maliensis,Xanthomonas maliensis,66.667,93,4,43,126,140,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KXH77019.1,hypothetical protein AM324_04455 [Candidatus Thorarchaeota archaeon SMTZ1-83],Candidatus Thorarchaeota archaeon SMTZ1-83,Candidatus Thorarchaeota archaeon SMTZ1-83,64.286,93,5,43,112,125,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,RYR00188.1,hypothetical protein Ahy_B07g088287 [Arachis hypogaea],Arachis hypogaea,peanut,61.111,93,3,61,27,44,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,RYR45875.1,hypothetical protein Ahy_A07g031646 [Arachis hypogaea],Arachis hypogaea,peanut,61.111,93,3,61,27,44,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_015973602.1,endoglucanase 11 [Arachis duranensis],Arachis duranensis,Arachis duranensis,61.111,93,3,61,27,44,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_016167547.1,endoglucanase 11 [Arachis ipaensis],Arachis ipaensis,Arachis ipaensis,61.111,93,3,61,27,44,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_025608995.1,endoglucanase 11 [Arachis hypogaea],Arachis hypogaea,peanut,61.111,93,3,61,27,44,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,EEY89465.1,hypothetical protein HMPREF0017_01769 [Acinetobacter lwoffii SH145],Acinetobacter lwoffii SH145,Acinetobacter lwoffii SH145,62.5,93,4,61,129,144,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_004645749.1,MULTISPECIES: hypothetical protein [Acinetobacter],Acinetobacter,Acinetobacter,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_005106342.1,hypothetical protein [Acinetobacter lwoffii],Acinetobacter lwoffii,Acinetobacter lwoffii,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_005247698.1,hypothetical protein [Acinetobacter sp. CIP 51.11],Acinetobacter sp. CIP 51.11,Acinetobacter sp. CIP 51.11,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_180037177.1,hypothetical protein [Acinetobacter sp. YH16052],Acinetobacter sp. YH16052,Acinetobacter sp. YH16052,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_005252537.1,hypothetical protein [Acinetobacter sp. CIP 102136],Acinetobacter sp. CIP 102136,Acinetobacter sp. CIP 102136,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_180086496.1,MULTISPECIES: hypothetical protein [Acinetobacter],Acinetobacter,Acinetobacter,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_180180544.1,hypothetical protein [Acinetobacter sp. YH01021],Acinetobacter sp. YH01021,Acinetobacter sp. YH01021,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_129716747.1,hypothetical protein [Acinetobacter lwoffii],Acinetobacter lwoffii,Acinetobacter lwoffii,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,RDC53686.1,hypothetical protein DVA85_01310 [Acinetobacter sp. RIT592],Acinetobacter sp. RIT592,Acinetobacter sp. RIT592,62.5,93,4,61,128,143,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_027865978.1,V-type proton ATPase subunit S1-like [Xiphophorus couchianus],Xiphophorus couchianus,Monterrey platyfish,73.333,93,3,86,357,371,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,OLN83296.1,hypothetical protein CCHL11_03165 [Colletotrichum chlorophyti],Colletotrichum chlorophyti,Colletotrichum chlorophyti,57.143,93,6,122,8,21,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KAF6803042.1,hypothetical protein CSOJ01_11164 [Colletotrichum sojae],Colletotrichum sojae,Colletotrichum sojae,64.286,93,5,122,8,21,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KAF6824058.1,hypothetical protein CPLU01_11054 [Colletotrichum plurivorum],Colletotrichum plurivorum,Colletotrichum plurivorum,64.286,93,5,122,8,21,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KAF6801060.1,hypothetical protein CMUS01_15511 [Colletotrichum musicola],Colletotrichum musicola,Colletotrichum musicola,64.286,93,5,122,8,21,1,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_156479929.1,hypothetical protein [Collimonas pratensis],Collimonas pratensis,Collimonas pratensis,71.429,93,4,122,33,46,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_168229130.1,hypothetical protein [Collimonas pratensis],Collimonas pratensis,Collimonas pratensis,71.429,93,4,122,33,46,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,PJD54004.1,hypothetical protein B9Q23_03785 [Enterobacter kobei],Enterobacter kobei,Enterobacter kobei,57.143,93,6,122,4,17,2,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_017218989.1,PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase At4g27290 [Daucus carota subsp. sativus],Daucus carota subsp. sativus,Daucus carota subsp. sativus,78.571,93,2,172,8,20,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,HGD17103.1,TPA: ABC transporter ATP-binding protein [Candidatus Bathyarchaeota archaeon],Candidatus Bathyarchaeota archaeon,Candidatus Bathyarchaeota archaeon,78.571,93,1,1.9,235,246,1,14
+PDILRVYANLGERVR,mateus_NSP12_4561,RPD42896.1,DUF11 domain-containing protein [Chitinophaga barathri],Chitinophaga barathri,Chitinophaga barathri,71.429,93,4,3.8,87,100,1,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_162946179.1,gliding motility-associated C-terminal domain-containing protein [Chitinophaga barathri],Chitinophaga barathri,Chitinophaga barathri,71.429,93,4,3.8,54,67,1,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_190096050.1,tetratricopeptide repeat protein [Streptomyces griseoflavus],Streptomyces griseoflavus,Streptomyces griseoflavus,78.571,93,1,7.5,689,700,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_189557061.1,tetratricopeptide repeat protein [Streptomyces pilosus],Streptomyces pilosus,Streptomyces pilosus,78.571,93,1,7.5,605,616,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_189598375.1,tetratricopeptide repeat protein [Streptomyces flavoviridis],Streptomyces flavoviridis,Streptomyces flavoviridis,78.571,93,1,7.5,605,616,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_195098861.1,hypothetical protein [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,73.333,93,3,11,6870,6884,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_195067215.1,hypothetical protein [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,73.333,93,3,11,6863,6877,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,MBH34955.1,DEAD/DEAH box helicase [Euryarchaeota archaeon],Euryarchaeota archaeon,Euryarchaeota archaeon,73.333,93,3,11,454,468,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_195080392.1,hypothetical protein [Nocardia beijingensis],Nocardia beijingensis,Nocardia beijingensis,73.333,93,3,30,6822,6836,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_101401699.1,iron transporter [Streptomyces sp. OK885],Streptomyces sp. OK885,Streptomyces sp. OK885,57.143,93,2,30,324,344,1,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_168501381.1,IucA/IucC family siderophore biosynthesis protein [Streptomyces sp. RLB1-33],Streptomyces sp. RLB1-33,Streptomyces sp. RLB1-33,57.143,93,2,30,324,344,1,14
+PDILRVYANLGERVR,mateus_NSP12_4561,PKW44871.1,DNA polymerase-3 subunit chi [Streptomyces sp. OK885],Streptomyces sp. OK885,Streptomyces sp. OK885,57.143,93,2,30,305,325,1,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_195150520.1,hypothetical protein [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,73.333,93,3,43,6830,6844,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_174188029.1,"hypothetical protein, partial [Nocardia barduliensis]",Nocardia sp. 335427,Nocardia sp. 335427,73.333,93,3,43,5333,5347,2,15
+PDILRVYANLGERVR,mateus_NSP12_4561,KYH45781.1,hypothetical protein AZH51_08805 [Branchiibius sp. NY16-3462-2],Branchiibius sp. NY16-3462-2,Branchiibius sp. NY16-3462-2,62.5,93,4,43,118,133,1,14
+GKIADYNYKLPDDFT,mateus_S_416,KYQ89361.1,hypothetical protein DLAC_10024 [Tieghemostelium lacteum],Tieghemostelium lacteum,Tieghemostelium lacteum,53.846,93,0,7.5,163,188,1,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_044749409.1,aminodeoxychorismate lyase [Bacillus alveayuensis],Bacillus alveayuensis,Bacillus alveayuensis,73.333,86,2,30,253,267,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,HHZ94766.1,TPA: hypothetical protein [Flavobacteriales bacterium],Flavobacteriales bacterium,Flavobacteriales bacterium,76.923,86,2,43,48,59,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,SHL83726.1,Cadherin-like [Flavobacterium flevense],Flavobacterium flevense,Flavobacterium flevense,69.231,86,4,121,1143,1155,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_159434575.1,hypothetical protein [Flavobacterium flevense],Flavobacterium flevense,Flavobacterium flevense,69.231,86,4,121,1111,1123,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_141384648.1,hypothetical protein [Flavobacterium flevense],Flavobacterium flevense,Flavobacterium flevense,69.231,86,4,121,73,85,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_117604244.1,MULTISPECIES: methionyl-tRNA formyltransferase [Clostridiales],Clostridiales,Clostridiales,69.231,86,4,172,268,280,3,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_119297598.1,methionyl-tRNA formyltransferase [Mediterraneibacter butyricigenes],Mediterraneibacter butyricigenes,Mediterraneibacter butyricigenes,69.231,86,4,172,268,280,3,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,MAS44728.1,2-isopropylmalate synthase [Rhodobacteraceae bacterium],Rhodobacteraceae bacterium,Rhodobacteraceae bacterium,69.231,86,2,244,173,183,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,MBR28746.1,2-isopropylmalate synthase [Rhodobacteraceae bacterium],Rhodobacteraceae bacterium,Rhodobacteraceae bacterium,69.231,86,2,244,173,183,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_092679820.1,2-isopropylmalate synthase [Albimonas donghaensis],Albimonas donghaensis,Albimonas donghaensis,69.231,86,2,244,173,183,1,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,NOT41760.1,DUF11 domain-containing protein [Alphaproteobacteria bacterium],Alphaproteobacteria bacterium,Alphaproteobacteria bacterium,64.706,86,2,244,57,73,3,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_062327403.1,MULTISPECIES: AAA family ATPase [Methylomonas],Methylomonas,Methylomonas,69.231,86,4,244,147,159,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,XP_019028658.1,hypothetical protein L198_07408 [Cryptococcus wingfieldii CBS 7118],Cryptococcus wingfieldii CBS 7118,Cryptococcus wingfieldii CBS 7118,71.429,86,3,30,270,283,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,XP_019028654.1,hypothetical protein L198_07404 [Cryptococcus wingfieldii CBS 7118],Cryptococcus wingfieldii CBS 7118,Cryptococcus wingfieldii CBS 7118,71.429,86,3,30,270,283,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_014960933.1,MULTISPECIES: methyltransferase domain-containing protein [Leptospirillum],Leptospirillum,Leptospirillum,62.5,86,3,30,94,109,3,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_181718836.1,AraC family transcriptional regulator ligand-binding domain-containing protein [Nocardia gipuzkoensis],Nocardia sp. 234509,Nocardia sp. 234509,78.571,86,1,43,72,84,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_043695955.1,AraC family transcriptional regulator [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,78.571,86,1,43,72,84,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_195149456.1,AraC family transcriptional regulator ligand-binding domain-containing protein [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,78.571,86,1,43,72,84,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_195064677.1,AraC family transcriptional regulator ligand-binding domain-containing protein [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,78.571,86,1,43,72,84,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_195096811.1,AraC family transcriptional regulator ligand-binding domain-containing protein [Nocardia abscessus],Nocardia abscessus,Nocardia abscessus,78.571,86,1,43,72,84,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_093035584.1,SRPBCC family protein [Thiocapsa roseopersicina],Thiocapsa roseopersicina,Thiocapsa roseopersicina,71.429,86,3,43,269,282,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_170164831.1,SRPBCC family protein [Thiocapsa rosea],Thiocapsa rosea,Thiocapsa rosea,71.429,86,3,43,269,282,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,NQX29924.1,hypothetical protein [Microbacteriaceae bacterium VKM Ac-2854],Microbacteriaceae bacterium VKM Ac-2854,Microbacteriaceae bacterium VKM Ac-2854,73.333,86,2,43,56,70,1,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,MBM77802.1,hypothetical protein [Crocinitomicaceae bacterium],Crocinitomicaceae bacterium,Crocinitomicaceae bacterium,78.571,86,1,43,113,125,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_143871100.1,TonB-dependent receptor [Catenovulum sediminis],Catenovulum sediminis,Catenovulum sediminis,78.571,86,2,61,430,443,1,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,NWG52840.1,TonB-dependent receptor [Hydrogenophilaceae bacterium],Hydrogenophilaceae bacterium,Hydrogenophilaceae bacterium,76.923,86,2,86,597,608,1,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,PNV84220.1,hypothetical protein C0610_16320 [Desulfobacteraceae bacterium],Desulfobacteraceae bacterium,Desulfobacteraceae bacterium,76.923,86,2,86,130,141,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_175423727.1,diguanylate cyclase [Inhella inkyongensis],Inhella inkyongensis,Inhella inkyongensis,69.231,86,2,121,977,987,1,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,OQB15117.1,hypothetical protein BWY17_02295 [Deltaproteobacteria bacterium ADurb.Bin207],Deltaproteobacteria bacterium ADurb.Bin207,Deltaproteobacteria bacterium ADurb.Bin207,76.923,86,2,121,415,426,2,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_025003088.1,RagB/SusD family nutrient uptake outer membrane protein [Prevotella dentasini],Prevotella dentasini,Prevotella dentasini,68.75,86,2,121,122,137,3,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_067209617.1,M48 family metalloprotease [Marinomonas aquimarina],Marinomonas aquimarina,Marinomonas aquimarina,52.174,86,1,121,273,295,2,14
+LLALHRSYLTPGDSS,mateus_S_241,NNJ13088.1,DUF1028 domain-containing protein [Chloroflexales bacterium ZM16-3],Chloroflexales bacterium ZM16-3,Chloroflexales bacterium ZM16-3,76.923,86,3,86,203,215,1,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_037949672.1,zinc carboxypeptidase [Streptomyces sp. PRh5],Streptomyces sp. PRh5,Streptomyces sp. PRh5,68.75,86,2,172,836,851,1,13
+SIAIPTNFTISVTTE,mateus_S_711,WP_188170318.1,glycosyltransferase [Flammeovirga sp. EKP202],Flammeovirga sp. EKP202,Flammeovirga sp. EKP202,73.333,86,2,21,7,21,1,13
+SIAIPTNFTISVTTE,mateus_S_711,WP_179318307.1,hypothetical protein [Winogradskyella helgolandensis],Winogradskyella sp. Z963,Winogradskyella sp. Z963,76.923,86,3,30,212,224,1,13
+SIAIPTNFTISVTTE,mateus_S_711,WP_057780017.1,hypothetical protein [Formosa algae],Formosa algae,Formosa algae,76.923,86,3,30,212,224,1,13
+SIAIPTNFTISVTTE,mateus_S_711,WP_178983233.1,hypothetical protein [Winogradskyella helgolandensis],Winogradskyella sp. Z963,Winogradskyella sp. Z963,76.923,86,3,30,212,224,1,13
+SIAIPTNFTISVTTE,mateus_S_711,WP_019386502.1,hypothetical protein [Arenitalea lutea],Arenitalea lutea,Arenitalea lutea,76.923,86,3,43,212,224,1,13
+SIAIPTNFTISVTTE,mateus_S_711,HAG10106.1,TPA: hypothetical protein [Desulfotomaculum sp.],Desulfotomaculum sp.,Desulfotomaculum sp.,76.923,86,3,61,134,146,1,13
+SIAIPTNFTISVTTE,mateus_S_711,NLA31781.1,MTAP family purine nucleoside phosphorylase [Methanomicrobiales archaeon],Methanomicrobiales archaeon,Methanomicrobiales archaeon,76.923,86,2,61,77,88,1,13
+DDQIGYYRRATRRIR,mateus_N_81,RIB00190.1,hypothetical protein C2G38_2235217 [Gigaspora rosea],Gigaspora rosea,Gigaspora rosea,69.231,86,4,21,347,359,3,15
+DDQIGYYRRATRRIR,mateus_N_81,RIB00725.1,hypothetical protein C2G38_1120588 [Gigaspora rosea],Gigaspora rosea,Gigaspora rosea,69.231,86,4,21,347,359,3,15
+DDQIGYYRRATRRIR,mateus_N_81,KAF0437569.1,hsp70 family protein [Gigaspora margarita],Gigaspora margarita,Gigaspora margarita,69.231,86,4,21,347,359,3,15
+DDQIGYYRRATRRIR,mateus_N_81,EKF27673.1,"33 kDa inner dynein arm light chain, axonemal, putative [Trypanosoma cruzi marinkellei]",Trypanosoma cruzi marinkellei,Trypanosoma cruzi marinkellei,58.824,86,3,21,316,332,2,14
+DDQIGYYRRATRRIR,mateus_N_81,NJN00144.1,glycosyltransferase [Aquincola sp.],Aquincola sp.,Aquincola sp.,66.667,86,3,30,110,124,3,15
+DDQIGYYRRATRRIR,mateus_N_81,KAF5727611.1,lipase-like PAD4 [Tripterygium wilfordii],Tripterygium wilfordii,Tripterygium wilfordii,55.556,86,3,61,407,424,1,13
+DDQIGYYRRATRRIR,mateus_N_81,KAF7840142.1,lipase-like PAD4 [Senna tora],Senna tora,Senna tora,61.111,86,2,61,323,340,1,13
+DDQIGYYRRATRRIR,mateus_N_81,RNF23882.1,"putative 33 kDa inner dynein arm light chain, axonemal [Trypanosoma cruzi]",Trypanosoma cruzi,Trypanosoma cruzi,58.824,86,3,61,345,361,2,14
+DDQIGYYRRATRRIR,mateus_N_81,EKF99031.1,"33 kDa inner dynein arm light chain, axonemal, putative [Trypanosoma cruzi]",Trypanosoma cruzi,Trypanosoma cruzi,58.824,86,3,61,316,332,2,14
+DDQIGYYRRATRRIR,mateus_N_81,XP_808209.1,"33 kDa inner dynein arm light chain, axonemal [Trypanosoma cruzi strain CL Brener]",Trypanosoma cruzi strain CL Brener,Trypanosoma cruzi strain CL Brener,58.824,86,3,61,316,332,2,14
+DDQIGYYRRATRRIR,mateus_N_81,XP_816429.1,"33 kDa inner dynein arm light chain, axonemal [Trypanosoma cruzi strain CL Brener]",Trypanosoma cruzi strain CL Brener,Trypanosoma cruzi strain CL Brener,58.824,86,3,61,316,332,2,14
+DDQIGYYRRATRRIR,mateus_N_81,KAF5223103.1,hypothetical protein ECC02_003930 [Trypanosoma cruzi],Trypanosoma cruzi,Trypanosoma cruzi,58.824,86,3,61,316,332,2,14
+DDQIGYYRRATRRIR,mateus_N_81,ESS70000.1,33 kDa inner dynein arm light chain [Trypanosoma cruzi Dm28c],Trypanosoma cruzi Dm28c,Trypanosoma cruzi Dm28c,58.824,86,3,61,316,332,2,14
+DDQIGYYRRATRRIR,mateus_N_81,HBK79532.1,TPA: hypothetical protein [Nitrospinae bacterium],Nitrospinae bacterium,Nitrospinae bacterium,68.75,86,2,61,121,136,3,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,HBZ83527.1,TPA: hypothetical protein [Brevibacillus sp.],Brevibacillus sp.,Brevibacillus sp.,52.381,86,2,5.3,55,75,2,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_122965651.1,MULTISPECIES: helix-turn-helix domain-containing protein [Brevibacillus],Brevibacillus,Brevibacillus,52.381,86,2,5.3,55,75,2,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_063227740.1,helix-turn-helix domain-containing protein [Brevibacillus parabrevis],Brevibacillus parabrevis,Brevibacillus parabrevis,52.381,86,2,5.3,55,75,2,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_173595589.1,helix-turn-helix domain-containing protein [Brevibacillus sp. HD1.4A],Brevibacillus sp. HD1.4A,Brevibacillus sp. HD1.4A,52.381,86,2,5.3,55,75,2,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,TDI57723.1,high frequency lysogenization protein HflD [Alphaproteobacteria bacterium],Alphaproteobacteria bacterium,Alphaproteobacteria bacterium,64.706,86,2,21,158,174,1,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_179607247.1,hypothetical protein [Leifsonia shinshuensis],Leifsonia shinshuensis,Leifsonia shinshuensis,69.231,86,4,22,9,21,3,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_185278082.1,hypothetical protein [Leifsonia shinshuensis],Leifsonia shinshuensis,Leifsonia shinshuensis,69.231,86,4,22,9,21,3,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,SDI91647.1,"phosphate ABC transporter membrane protein 2, PhoT family [Frankineae bacterium MT45]",Frankineae bacterium MT45,Frankineae bacterium MT45,62.5,86,3,86,227,242,1,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,GAU98651.1,hypothetical protein RvY_09770 [Ramazzottius varieornatus],Ramazzottius varieornatus,Ramazzottius varieornatus,69.231,86,4,122,232,244,3,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_017311659.1,PREDICTED: cation-independent mannose-6-phosphate receptor isoform X1 [Ictalurus punctatus],Ictalurus punctatus,channel catfish,78.571,86,1,172,10,22,1,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_017311660.1,PREDICTED: cation-independent mannose-6-phosphate receptor isoform X2 [Ictalurus punctatus],Ictalurus punctatus,channel catfish,78.571,86,1,172,10,22,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,NJL43757.1,hypothetical protein [Nitrosarchaeum sp.],Nitrosarchaeum sp.,Nitrosarchaeum sp.,73.333,86,2,21,546,560,2,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_181336263.1,Ppx/GppA family phosphatase [Hyphomicrobium methylovorum],Hyphomicrobium methylovorum,Hyphomicrobium methylovorum,78.571,86,2,21,478,491,3,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_019225028.1,MULTISPECIES: nickel pincer cofactor biosynthesis protein LarC [Dehalobacter],Dehalobacter,Dehalobacter,76.923,86,1,21,234,244,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_119775948.1,MULTISPECIES: nickel pincer cofactor biosynthesis protein LarC [unclassified Dehalobacter],unclassified Dehalobacter,unclassified Dehalobacter,76.923,86,1,21,234,244,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,NBJ15832.1,nickel pincer cofactor biosynthesis protein LarC [Dehalobacter sp. 4CP],Dehalobacter sp. 4CP,Dehalobacter sp. 4CP,76.923,86,1,21,234,244,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_015044956.1,MULTISPECIES: nickel pincer cofactor biosynthesis protein LarC [unclassified Dehalobacter],unclassified Dehalobacter,unclassified Dehalobacter,76.923,86,1,21,234,244,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_152351572.1,alpha-mannosidase [Brachybacterium sp. CFH 10395],Brachybacterium sp. CFH 10395,Brachybacterium sp. CFH 10395,69.231,86,4,30,977,989,3,15
+PDILRVYANLGERVR,mateus_NSP12_4561,REG01649.1,hypothetical protein DFJ67_7734 [Asanoa ferruginea],Asanoa ferruginea,Asanoa ferruginea,76.923,86,3,30,672,684,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,HAC16503.1,TPA: efflux RND transporter periplasmic adaptor subunit [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,69.231,86,4,30,88,100,3,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_090242640.1,phosphotransferase [Eubacterium barkeri],Eubacterium barkeri,Eubacterium barkeri,76.923,86,3,43,210,222,1,13
+PDILRVYANLGERVR,mateus_NSP12_4561,MBO95254.1,DEAD/DEAH box helicase [Euryarchaeota archaeon],Euryarchaeota archaeon,Euryarchaeota archaeon,71.429,86,3,61,455,468,3,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_098479836.1,MULTISPECIES: aldehyde dehydrogenase [Pseudomonas],Pseudomonas,Pseudomonas,83.333,80,2,21,357,368,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_187587221.1,cation:dicarboxylase symporter family transporter [Gordonia sp. OPL2],Gordonia sp. OPL2,Gordonia sp. OPL2,83.333,80,2,21,313,324,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,KZV90058.1,hypothetical protein EXIGLDRAFT_838084 [Exidia glandulosa HHB12029],Exidia glandulosa HHB12029,Exidia glandulosa HHB12029,76.923,80,2,30,257,269,2,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_134272840.1,FecR domain-containing protein [Lewinella sp. W8],Lewinella sp. W8,Lewinella sp. W8,75,80,3,43,133,144,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,AAY66865.1,possible transposase [Ixodes scapularis],Ixodes scapularis,black-legged tick,75,80,3,61,193,204,2,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_190264147.1,response regulator [Glutamicibacter nicotianae],Glutamicibacter nicotianae,Glutamicibacter nicotianae,75,80,3,61,226,237,3,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_141356134.1,response regulator [Glutamicibacter nicotianae],Glutamicibacter nicotianae,Glutamicibacter nicotianae,75,80,3,61,226,237,3,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,HHS15089.1,TPA: ABC transporter ATP-binding protein [Phycisphaerae bacterium],Phycisphaerae bacterium,Phycisphaerae bacterium,62.5,80,2,86,295,310,2,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,OIP55117.1,CTP synthase [Helicobacteraceae bacterium CG2_30_36_10],Helicobacteraceae bacterium CG2_30_36_10,Helicobacteraceae bacterium CG2_30_36_10,83.333,80,2,121,422,433,3,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,KKF93716.1,hypothetical protein CFO_g3933 [Ceratocystis platani],Ceratocystis platani,Ceratocystis platani,71.429,80,2,172,674,687,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,PHH50348.1,hypothetical protein CFIMG_003977RA [Ceratocystis fimbriata CBS 114723],Ceratocystis fimbriata CBS 114723,Ceratocystis fimbriata CBS 114723,71.429,80,2,172,673,686,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,PUZ25971.1,hypothetical protein DCC81_17150 [Chitinophaga parva],Chitinophaga parva,Chitinophaga parva,71.429,80,2,172,632,645,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_165806623.1,DUF3857 domain-containing protein [Chitinophaga parva],Chitinophaga parva,Chitinophaga parva,71.429,80,2,172,627,640,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_148375318.1,MULTISPECIES: hypothetical protein [Butyricimonas],Butyricimonas,Butyricimonas,83.333,80,0,172,121,130,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_035049229.1,MULTISPECIES: CamS family sex pheromone protein [Anoxybacillus],Anoxybacillus,Anoxybacillus,71.429,80,2,244,150,163,2,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,OJV31409.1,hypothetical protein BGO32_03305 [Bacteroidetes bacterium 37-13],Bacteroidetes bacterium 37-13,Bacteroidetes bacterium 37-13,75,80,3,244,224,235,1,12
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_014926399.1,MULTISPECIES: dicarboxylate/amino acid:cation symporter [unclassified Gordonia],unclassified Gordonia,unclassified Gordonia,75,80,3,244,311,322,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_010841668.1,dicarboxylate/amino acid:cation symporter [Gordonia terrae],Gordonia terrae,Gordonia terrae,75,80,3,244,311,322,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,VEN34299.1,unnamed protein product [Callosobruchus maculatus],Callosobruchus maculatus,cowpea weevil,76.923,80,2,244,25,37,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,HHA26166.1,TPA: hypothetical protein [Candidatus Acetothermia bacterium],Candidatus Acetothermia bacterium,Candidatus Acetothermia bacterium,55,80,1,244,88,107,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,MBC7221390.1,Ig-like domain-containing protein [Candidatus Bipolaricaulota bacterium],Candidatus Bipolaricaulota bacterium,Candidatus Bipolaricaulota bacterium,55,80,1,244,89,108,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,HGJ79905.1,TPA: hypothetical protein [Candidatus Acetothermia bacterium],Candidatus Acetothermia bacterium,Candidatus Acetothermia bacterium,55,80,1,244,90,109,4,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,MBA3027120.1,CTP synthase [Sulfurimonas sp.],Sulfurimonas sp.,Sulfurimonas sp.,83.333,80,2,244,418,429,3,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,XP_028292498.1,transcription factor Sp3 [Gouania willdenowi],Gouania willdenowi,blunt-snouted clingfish,75,80,3,244,167,178,1,12
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,MAO82814.1,hypothetical protein [Myxococcales bacterium],Myxococcales bacterium,Myxococcales bacterium,76.923,80,2,345,74,86,1,12
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,HBU47187.1,TPA: hypothetical protein [Myxococcales bacterium],Myxococcales bacterium,Myxococcales bacterium,76.923,80,2,345,74,86,1,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_161510874.1,dienelactone hydrolase family protein [Staphylococcus haemolyticus],Staphylococcus haemolyticus,Staphylococcus haemolyticus,84.615,80,1,15,54,66,1,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_060658129.1,hypothetical protein [Bacillus amyloliquefaciens],Bacillus amyloliquefaciens,Bacillus amyloliquefaciens,71.429,80,2,21,90,103,4,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_118382015.1,hypothetical protein [Bacillus licheniformis],Bacillus licheniformis,Bacillus licheniformis,71.429,80,2,21,90,103,4,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_144501832.1,hypothetical protein [Bacillus velezensis],Bacillus velezensis,Bacillus velezensis,71.429,80,2,21,90,103,4,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_196158994.1,FAD-dependent oxidoreductase [Reinekea sp. G2M2-21],Reinekea sp. G2M2-21,Reinekea sp. G2M2-21,75,80,3,30,126,137,3,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_100256203.1,FAD-dependent oxidoreductase [Reinekea forsetii],Reinekea forsetii,Reinekea forsetii,75,80,3,43,130,141,3,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,XP_763286.1,hypothetical protein [Theileria parva strain Muguga],Theileria parva strain Muguga,Theileria parva strain Muguga,75,80,3,61,888,899,4,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,RIB11104.1,hypothetical protein C2G38_2042939 [Gigaspora rosea],Gigaspora rosea,Gigaspora rosea,75,80,0,86,719,727,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_162021619.1,prolyl oligopeptidase family serine peptidase [Undibacterium sp. B2R-29],Undibacterium sp. B2R-29,Undibacterium sp. B2R-29,58.824,80,2,86,243,259,1,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,TAJ99353.1,MFS transporter [Nitrospirae bacterium],Nitrospirae bacterium,Nitrospirae bacterium,75,80,3,86,181,192,4,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_167129406.1,type IV secretion system protein [Luteibacter jiangsuensis],Luteibacter jiangsuensis,Luteibacter jiangsuensis,75,80,0,86,9,17,3,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_167022766.1,type IV secretion system protein [Lutibacter sp. SG786],Lutibacter sp. SG786,Lutibacter sp. SG786,75,80,0,86,9,17,3,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_139980916.1,type IV secretion system protein [Luteibacter pinisoli],Luteibacter pinisoli,Luteibacter pinisoli,75,80,0,86,9,17,3,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,OFZ27360.1,hypothetical protein A3D92_08875 [Bacteroidetes bacterium RIFCSPHIGHO2_02_FULL_44_7],Bacteroidetes bacterium RIFCSPHIGHO2_02_FULL_44_7,Bacteroidetes bacterium RIFCSPHIGHO2_02_FULL_44_7,75,80,3,86,137,148,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,HBS91363.1,TPA: carboxylesterase [Erysipelotrichaceae bacterium],Erysipelotrichaceae bacterium,Erysipelotrichaceae bacterium,69.231,80,3,86,54,66,1,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,RXK54621.1,TonB-dependent receptor [Oleiharenicola lentus],Lacunisphaera sp. TWA-58,Lacunisphaera sp. TWA-58,75,80,2,121,975,985,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_164975979.1,carboxypeptidase regulatory-like domain-containing protein [Oleiharenicola lentus],Lacunisphaera sp. TWA-58,Lacunisphaera sp. TWA-58,75,80,2,121,949,959,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_074051648.1,CHAT domain-containing protein [Vibrio harveyi],Vibrio harveyi,Vibrio harveyi,75,80,3,121,296,307,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,TOE52034.1,hypothetical protein CGJ42_11045 [Vibrio parahaemolyticus],Vibrio parahaemolyticus,Vibrio parahaemolyticus,75,80,3,121,296,307,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_140112214.1,CHAT domain-containing protein [Vibrio parahaemolyticus],Vibrio parahaemolyticus,Vibrio parahaemolyticus,75,80,3,121,296,307,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_180801930.1,CHAT domain-containing protein [Vibrio parahaemolyticus],Vibrio parahaemolyticus,Vibrio parahaemolyticus,75,80,3,121,262,273,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_124795194.1,DUF262 domain-containing protein [Conchiformibius steedae],Conchiformibius steedae,Conchiformibius steedae,52.632,80,2,121,137,155,4,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,TOM15832.1,hypothetical protein CGH84_19115 [Vibrio parahaemolyticus],Vibrio parahaemolyticus,Vibrio parahaemolyticus,75,80,3,121,118,129,2,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_140164042.1,CHAT domain-containing protein [Vibrio parahaemolyticus],Vibrio parahaemolyticus,Vibrio parahaemolyticus,75,80,3,121,105,116,2,13
+LLALHRSYLTPGDSS,mateus_S_241,NUQ39449.1,glycosyltransferase family 2 protein [Caldilineales bacterium],Caldilineales bacterium,Caldilineales bacterium,83.333,80,2,30,232,243,1,12
+LLALHRSYLTPGDSS,mateus_S_241,WP_125304761.1,toprim domain-containing protein [Alcaligenes faecalis],Alcaligenes faecalis,Alcaligenes faecalis,76.923,80,2,43,404,416,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_078618128.1,MULTISPECIES: SGNH/GDSL hydrolase family protein [unclassified Streptomyces],unclassified Streptomyces,unclassified Streptomyces,76.923,80,2,86,347,359,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_191889916.1,SGNH/GDSL hydrolase family protein [Streptomyces griseoaurantiacus],Streptomyces griseoaurantiacus,Streptomyces griseoaurantiacus,76.923,80,2,86,346,358,2,13
+LLALHRSYLTPGDSS,mateus_S_241,EGG44341.1,hypothetical protein SGM_5156 [Streptomyces griseoaurantiacus M045],Streptomyces griseoaurantiacus M045,Streptomyces griseoaurantiacus M045,76.923,80,2,86,346,358,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_040896741.1,SGNH/GDSL hydrolase family protein [Streptomyces griseoaurantiacus],Streptomyces griseoaurantiacus,Streptomyces griseoaurantiacus,76.923,80,2,86,345,357,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_191852143.1,SGNH/GDSL hydrolase family protein [Streptomyces griseoaurantiacus],Streptomyces griseoaurantiacus,Streptomyces griseoaurantiacus,76.923,80,2,86,345,357,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_167794343.1,SGNH/GDSL hydrolase family protein [Streptomyces sp. C1-2],Streptomyces sp. C1-2,Streptomyces sp. C1-2,76.923,80,2,86,345,357,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_176945000.1,SGNH/GDSL hydrolase family protein [Streptomyces jietaisiensis],Streptomyces jietaisiensis,Streptomyces jietaisiensis,76.923,80,2,86,345,357,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_161982037.1,TetR/AcrR family transcriptional regulator [Dictyobacter alpinus],Dictyobacter alpinus,Dictyobacter alpinus,83.333,80,2,86,101,112,2,13
+LLALHRSYLTPGDSS,mateus_S_241,OMO64097.1,reverse transcriptase [Corchorus capsularis],Corchorus capsularis,Corchorus capsularis,83.333,80,1,121,640,650,4,15
+LLALHRSYLTPGDSS,mateus_S_241,TCS97413.1,nitrogen fixation/metabolism regulation signal transduction histidine kinase [Tepidimonas ignava],Tepidimonas ignava,Tepidimonas ignava,73.333,80,1,121,35,49,1,12
+LLALHRSYLTPGDSS,mateus_S_241,WP_132962822.1,HAMP domain-containing protein [Tepidimonas ignava],Tepidimonas ignava,Tepidimonas ignava,73.333,80,1,121,11,25,1,12
+LLALHRSYLTPGDSS,mateus_S_241,PZN90299.1,hypothetical protein DIU52_09160 [bacterium],bacterium,bacterium,76.923,80,2,121,410,422,2,13
+LLALHRSYLTPGDSS,mateus_S_241,HEY51978.1,TPA: glycosyltransferase family 2 protein [Caldilineae bacterium],Caldilineae bacterium,Caldilineae bacterium,83.333,80,1,122,246,256,1,12
+LLALHRSYLTPGDSS,mateus_S_241,WP_162469631.1,SGNH/GDSL hydrolase family protein [Streptomyces adustus],Streptomyces adustus,Streptomyces adustus,76.923,80,2,172,338,350,2,13
+LLALHRSYLTPGDSS,mateus_S_241,WP_161326561.1,MBL fold metallo-hydrolase [Streptomyces sp. SID5789],Streptomyces sp. SID5789,Streptomyces sp. SID5789,83.333,80,1,172,64,74,1,12
+SIAIPTNFTISVTTE,mateus_S_711,XP_015264560.1,PREDICTED: RWD domain-containing protein 1 [Gekko japonicus],Gekko japonicus,Gekko japonicus,75,80,3,15,29,40,4,15
+SIAIPTNFTISVTTE,mateus_S_711,WP_108114548.1,hypothetical protein [Kordia periserrulae],Kordia periserrulae,Kordia periserrulae,57.895,80,1,30,557,575,2,13
+SIAIPTNFTISVTTE,mateus_S_711,XP_035889982.1,polymeric immunoglobulin receptor-like isoform X1 [Phyllostomus discolor],Phyllostomus discolor,pale spear-nosed bat,75,80,3,43,357,368,4,15
+SIAIPTNFTISVTTE,mateus_S_711,WP_037604611.1,prolyl oligopeptidase family serine peptidase [Streptacidiphilus rugosus],Streptacidiphilus rugosus,Streptacidiphilus rugosus,75,80,3,43,64,75,3,14
+SIAIPTNFTISVTTE,mateus_S_711,XP_035889985.1,CMRF35-like molecule 5 isoform X4 [Phyllostomus discolor],Phyllostomus discolor,pale spear-nosed bat,75,80,3,43,246,257,4,15
+SIAIPTNFTISVTTE,mateus_S_711,XP_035889984.1,CMRF35-like molecule 5 isoform X3 [Phyllostomus discolor],Phyllostomus discolor,pale spear-nosed bat,75,80,3,43,246,257,4,15
+DDQIGYYRRATRRIR,mateus_N_81,TGZ32206.1,Multiple coagulation factor deficiency protein 2-like protein [Temnothorax longispinosus],Temnothorax longispinosus,Temnothorax longispinosus,83.333,80,2,21,24,35,4,15
+DDQIGYYRRATRRIR,mateus_N_81,WP_091147310.1,hypothetical protein [Novosphingobium sp. CF614],Novosphingobium sp. CF614,Novosphingobium sp. CF614,75,80,3,21,68,79,4,15
+DDQIGYYRRATRRIR,mateus_N_81,XP_013329500.1,hypothetical protein T310_3105 [Rasamsonia emersonii CBS 393.64],Rasamsonia emersonii CBS 393.64,Rasamsonia emersonii CBS 393.64,75,80,3,30,946,957,1,12
+DDQIGYYRRATRRIR,mateus_N_81,MYN68034.1,asparaginase [Acidobacteria bacterium],Acidobacteria bacterium,Acidobacteria bacterium,75,80,3,30,227,238,2,13
+DDQIGYYRRATRRIR,mateus_N_81,MYH31307.1,asparaginase [Acidobacteria bacterium],Acidobacteria bacterium,Acidobacteria bacterium,75,80,3,30,227,238,2,13
+DDQIGYYRRATRRIR,mateus_N_81,MYD85038.1,asparaginase [Acidobacteria bacterium],Acidobacteria bacterium,Acidobacteria bacterium,75,80,3,30,208,219,2,13
+DDQIGYYRRATRRIR,mateus_N_81,HGE87197.1,TPA: hypothetical protein [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,45.833,80,1,61,248,271,4,15
+DDQIGYYRRATRRIR,mateus_N_81,WP_152883261.1,type II secretion system F family protein [Duganella sp. FT27W],Duganella sp. FT27W,Duganella sp. FT27W,57.895,80,1,61,138,156,4,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_058460607.1,hypothetical protein [Fluoribacter bozemanae],Fluoribacter bozemanae,Fluoribacter bozemanae,71.429,80,2,15,186,199,4,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_019350390.1,MULTISPECIES: hypothetical protein [Legionellaceae],Legionellaceae,Legionellaceae,71.429,80,2,15,186,199,4,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,OMP86608.1,NFX1-type zinc finger-containing protein 1 [Diplodia seriata],Diplodia seriata,Diplodia seriata,76.923,80,2,43,1479,1491,2,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KNE56318.1,hypothetical protein AMAG_02140 [Allomyces macrogynus ATCC 38327],Allomyces macrogynus ATCC 38327,Allomyces macrogynus ATCC 38327,83.333,80,1,43,232,242,2,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,RMZ85312.1,hypothetical protein DV738_g68 [Chaetothyriales sp. CBS 135597],Chaetothyriales sp. CBS 135597,Chaetothyriales sp. CBS 135597,75,80,3,61,418,429,4,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_060578775.1,MFS transporter [Rathayibacter toxicus],Rathayibacter toxicus,Rathayibacter toxicus,71.429,80,2,61,219,232,1,12
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,AJM77595.1,hypothetical protein TI83_05890 [Rathayibacter toxicus],Rathayibacter toxicus,Rathayibacter toxicus,71.429,80,2,61,191,204,1,12
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,BAF92654.1,hypothetical protein [Fluoribacter dumoffii Tex-KL],Fluoribacter dumoffii Tex-KL,Fluoribacter dumoffii Tex-KL,64.286,80,3,86,192,205,4,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_058387442.1,MULTISPECIES: hypothetical protein [Legionellaceae],Legionellaceae,Legionellaceae,64.286,80,3,86,186,199,4,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_169551096.1,aconitate hydratase [Spirosoma sp. CJU-R4],Spirosoma sp. CJU-R4,Spirosoma sp. CJU-R4,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_190890589.1,aconitate hydratase [Spirosoma sp. BT702],Spirosoma sp. BT702,Spirosoma sp. BT702,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_164035647.1,aconitate hydratase [Spirosoma agri],Spirosoma agri,Spirosoma agri,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_093822541.1,aconitate hydratase [Spirosoma endophyticum],Spirosoma endophyticum,Spirosoma endophyticum,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_106138593.1,aconitate hydratase [Spirosoma oryzae],Spirosoma oryzae,Spirosoma oryzae,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_191040067.1,aconitate hydratase [Spirosoma sp. BT704],Spirosoma sp. BT704,Spirosoma sp. BT704,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,ADB38070.1,aconitate hydratase [Spirosoma linguale DSM 74],Spirosoma linguale DSM 74,Spirosoma linguale DSM 74,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_080240058.1,aconitate hydratase [Spirosoma rigui],Spirosoma rigui,Spirosoma rigui,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_119669393.1,aconitate hydratase [Fibrisoma montanum],Fibrisoma sp. HYT19,Fibrisoma sp. HYT19,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_163945022.1,aconitate hydratase [Spirosoma terrae],Spirosoma terrae,Spirosoma terrae,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_167207151.1,aconitate hydratase [Spirosoma sp. BT328],Spirosoma sp. BT328,Spirosoma sp. BT328,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_186737788.1,aconitate hydratase [Spirosoma sp. LMG 31447],Spirosoma sp. LMG 31447,Spirosoma sp. LMG 31447,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_097125572.1,aconitate hydratase [Spirosoma fluviale],Spirosoma fluviale,Spirosoma fluviale,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_162384609.1,aconitate hydratase [Spirosoma sp. I-24],Spirosoma sp. I-24,Spirosoma sp. I-24,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_080056619.1,aconitate hydratase [Spirosoma aerolatum],Spirosoma aerolatum,Spirosoma aerolatum,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_020598244.1,aconitate hydratase [Spirosoma panaciterrae],Spirosoma panaciterrae,Spirosoma panaciterrae,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_186749938.1,aconitate hydratase [Spirosoma sp. LMG 31448],Spirosoma sp. LMG 31448,Spirosoma sp. LMG 31448,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_171740067.1,aconitate hydratase [Spirosoma sp. TS118],Spirosoma sp. TS118,Spirosoma sp. TS118,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,OJW71692.1,aconitate hydratase [Spirosoma sp. 48-14],Spirosoma sp. 48-14,Spirosoma sp. 48-14,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_009282587.1,aconitate hydratase [Fibrisoma limi],Fibrisoma limi,Fibrisoma limi,91.667,80,1,0.66,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_183263243.1,hypothetical protein [Aminobacter niigataensis],Aminobacter niigataensis,Aminobacter niigataensis,83.333,80,2,1.9,289,300,4,15
+PDILRVYANLGERVR,mateus_NSP12_4561,CUQ65362.1,"putative Heavy metal efflux system, membrane fusion protein [Candidatus Nitrospira inopinata]",Candidatus Nitrospira inopinata,Candidatus Nitrospira inopinata,83.333,80,2,15,105,116,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_158023131.1,efflux RND transporter periplasmic adaptor subunit [Candidatus Nitrospira inopinata],Candidatus Nitrospira inopinata,Candidatus Nitrospira inopinata,83.333,80,2,15,91,102,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,MBB5202775.1,serine/threonine-protein kinase [Inhella inkyongensis],Inhella inkyongensis,Inhella inkyongensis,83.333,80,1,15,114,124,1,12
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_138858449.1,serine/threonine protein kinase [Inhella inkyongensis],Inhella inkyongensis,Inhella inkyongensis,83.333,80,1,15,52,62,1,12
+PDILRVYANLGERVR,mateus_NSP12_4561,KAF7756820.1,kinesin motor protein cin8 [Entomophthora muscae],Entomophthora muscae,Entomophthora muscae,75,80,3,30,794,805,4,15
+PDILRVYANLGERVR,mateus_NSP12_4561,MBC8155727.1,aconitate hydratase [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,83.333,80,2,30,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_077130247.1,aconitate hydratase [Spirosoma montaniterrae],Spirosoma montaniterrae,Spirosoma montaniterrae,83.333,80,2,30,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_071501511.1,aconitate hydratase [Arsenicibacter rosenii],Arsenicibacter rosenii,Arsenicibacter rosenii,83.333,80,2,30,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_015331794.1,aconitate hydratase [Fibrella aestuarina],Fibrella aestuarina,Fibrella aestuarina,83.333,80,2,30,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,KAF7723570.1,hypothetical protein DSO57_007005 [Entomophthora muscae],Entomophthora muscae,Entomophthora muscae,75,80,3,30,213,224,4,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_100988677.1,aconitate hydratase [Spirosoma pollinicola],Spirosoma pollinicola,Spirosoma pollinicola,83.333,80,2,43,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_142773046.1,aconitate hydratase [Spirosoma sp. KCTC 42546],Spirosoma sp. KCTC 42546,Spirosoma sp. KCTC 42546,83.333,80,2,43,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_046574029.1,aconitate hydratase [Spirosoma radiotolerans],Spirosoma radiotolerans,Spirosoma radiotolerans,83.333,80,2,43,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_157589319.1,aconitate hydratase [Spirosoma sp. HMF4905],Spirosoma sp. HMF4905,Spirosoma sp. HMF4905,83.333,80,2,43,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_111340818.1,aconitate hydratase [Spirosoma sp. HMF3257],Spirosoma sp. HMF3257,Spirosoma sp. HMF3257,83.333,80,2,43,8,19,3,14
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_182463006.1,aconitate hydratase [Spirosoma sp. PL0136],Spirosoma sp. PL0136,Spirosoma sp. PL0136,83.333,80,2,43,8,19,3,14
+GKIADYNYKLPDDFT,mateus_S_416,MBD5284961.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroides sp.],Bacteroides sp.,Bacteroides sp.,83.333,80,2,0.66,10,21,2,13
+GKIADYNYKLPDDFT,mateus_S_416,SCI12765.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [uncultured Bacteroides sp.],uncultured Bacteroides sp.,uncultured Bacteroides sp.,83.333,80,2,1.3,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_072541768.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroides mediterraneensis],Bacteroides mediterraneensis,Bacteroides mediterraneensis,83.333,80,2,1.3,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_072531979.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroides ilei],Bacteroides ilei,Bacteroides ilei,83.333,80,2,1.3,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,NQU33358.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,75,80,3,3.8,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_144154275.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118311054.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. AM23-5],Prevotella sp. AM23-5,Prevotella sp. AM23-5,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153113725.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,HBI98385.1,TPA: S-adenosylmethionine tRNA ribosyltransferase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,RHK48532.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBD9087385.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118254729.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153092261.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_006846679.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118201078.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118080383.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_117663115.1,MULTISPECIES: S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella],Prevotella,Prevotella,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153137412.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,QNT65852.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_089543416.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153079463.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_117586539.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBD9059907.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118190775.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153087185.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,CDA53600.1,s-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. CAG:604],Prevotella sp. CAG:604,Prevotella sp. CAG:604,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118415381.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153088970.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,HBF05329.1,TPA: S-adenosylmethionine tRNA ribosyltransferase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153091587.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_022121985.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153085536.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_117694800.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118152844.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118064118.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBE6264708.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153095290.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118118302.1,MULTISPECIES: S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella],Prevotella,Prevotella,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBD9272487.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBD9015551.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153096823.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_154480053.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_153121817.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_117727934.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBD8970421.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118140523.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MBD9300058.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp.],Prevotella sp.,Prevotella sp.,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,CDD20565.1,s-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. CAG:732],Prevotella sp. CAG:732,Prevotella sp. CAG:732,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,NLX66619.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroidales bacterium],Bacteroidales bacterium,Bacteroidales bacterium,83.333,80,2,5.3,10,21,2,13
+GKIADYNYKLPDDFT,mateus_S_416,MQO97327.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella copri],Prevotella copri,Prevotella copri,75,80,3,5.3,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_077197077.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella ihumii],Prevotella ihumii,Prevotella ihumii,75,80,3,11,9,20,2,13
+GKIADYNYKLPDDFT,mateus_S_416,EDY94985.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroides plebeius DSM 17135],Bacteroides plebeius DSM 17135,Bacteroides plebeius DSM 17135,75,80,3,11,25,36,2,13
+GKIADYNYKLPDDFT,mateus_S_416,CCZ87189.1,s-adenosylmethionine:tRNA ribosyltransferase-isomerase 2 [Bacteroides plebeius CAG:211],Bacteroides plebeius CAG:211,Bacteroides plebeius CAG:211,75,80,3,11,25,36,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_094466795.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. P5-108],Prevotella sp. P5-108,Prevotella sp. P5-108,75,80,3,11,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_094388376.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. P4-67],Prevotella sp. P4-67,Prevotella sp. P4-67,75,80,3,11,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,CDC97051.1,s-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. CAG:474],Prevotella sp. CAG:474,Prevotella sp. CAG:474,75,80,3,11,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_094386411.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. P5-64],Prevotella sp. P5-64,Prevotella sp. P5-64,75,80,3,11,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_094421229.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. P4-51],Prevotella sp. P4-51,Prevotella sp. P4-51,75,80,3,11,7,18,2,13
+GKIADYNYKLPDDFT,mateus_S_416,RLD91737.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,75,80,3,11,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_036876893.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella oryzae],Prevotella oryzae,Prevotella oryzae,75,80,3,11,9,20,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_040313045.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Phocaeicola plebeius],Bacteroides plebeius,Bacteroides plebeius,75,80,3,11,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,HAI03952.1,TPA: S-adenosylmethionine tRNA ribosyltransferase [Bacteroides sp.],Bacteroides sp.,Bacteroides sp.,75,80,3,11,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_118441796.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Phocaeicola plebeius],Bacteroides plebeius,Bacteroides plebeius,75,80,3,11,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_018710818.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Phocaeicola barnesiae],Bacteroides barnesiae,Bacteroides barnesiae,75,80,3,11,8,19,2,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_117747838.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Phocaeicola plebeius],Bacteroides plebeius,Bacteroides plebeius,75,80,3,11,8,19,2,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_144373021.1,glutamate synthase large subunit [Vogesella urethralis],Vogesella sp. YM-1,Vogesella sp. YM-1,81.818,73,2,43,691,701,5,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_174873393.1,glutamate synthase large subunit [Vogesella oryzae],Vogesella oryzae,Vogesella oryzae,81.818,73,2,43,689,699,5,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,GDX10459.1,hypothetical protein LBMAG57_22310 [Verrucomicrobia bacterium],Verrucomicrobia bacterium,Verrucomicrobia bacterium,81.818,73,2,43,122,132,5,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_183403212.1,MULTISPECIES: DUF4982 domain-containing protein [Hymenobacter],Hymenobacter,Hymenobacter,73.333,73,0,43,795,809,5,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,RPI86895.1,ABC transporter ATP-binding protein [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,81.818,73,2,86,100,110,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_194731869.1,MBL fold metallo-hydrolase [Rhizobium sp. 007],Rhizobium sp. 007,Rhizobium sp. 007,81.818,73,2,122,234,244,3,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_152827435.1,MBL fold metallo-hydrolase [Fertoebacter nigrum],Fertoebacter nigrum,Fertoebacter nigrum,81.818,73,2,172,230,240,3,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,RIA99435.1,RGS domain-containing protein [Glomus cerebriforme],Glomus cerebriforme,Glomus cerebriforme,72.727,73,3,172,170,180,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,PKY16912.1,regulator of G protein signaling superfamily [Rhizophagus irregularis],Rhizophagus irregularis,Rhizophagus irregularis,72.727,73,3,172,164,174,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,XP_025183686.1,hypothetical protein GLOIN_2v1552709 [Rhizophagus irregularis DAOM 181602=DAOM 197198],Rhizophagus irregularis DAOM 181602=DAOM 197198,Rhizophagus irregularis DAOM 181602=DAOM 197198,72.727,73,3,172,164,174,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,RGB41622.1,RGS domain-containing protein [Rhizophagus diaphanus] [Rhizophagus sp. MUCL 43196],Rhizophagus sp. MUCL 43196,Rhizophagus sp. MUCL 43196,72.727,73,3,172,164,174,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,GBC10746.1,hypothetical protein RclHR1_09870005 [Rhizophagus clarus],Rhizophagus clarus,Rhizophagus clarus,72.727,73,3,172,164,174,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,RIB07185.1,RGS domain-containing protein [Gigaspora rosea],Gigaspora rosea,Gigaspora rosea,72.727,73,3,172,164,174,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,KAF0345702.1,regulator of G protein signaling superfamily [Gigaspora margarita],Gigaspora margarita,Gigaspora margarita,72.727,73,3,172,164,174,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,GBC23081.1,regulator of g protein signaling domain protein [Rhizophagus irregularis DAOM 181602=DAOM 197198],Rhizophagus irregularis DAOM 181602=DAOM 197198,Rhizophagus irregularis DAOM 181602=DAOM 197198,72.727,73,3,172,143,153,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,PKK78300.1,hypothetical protein RhiirC2_730148 [Rhizophagus irregularis],Rhizophagus irregularis,Rhizophagus irregularis,72.727,73,3,172,129,139,4,14
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_194754752.1,3-methyl-2-oxobutanoate hydroxymethyltransferase [Methylophilus sp. QUAN],Methylophilus sp. QUAN,Methylophilus sp. QUAN,81.818,73,2,244,237,247,2,12
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_095841545.1,helix-turn-helix domain-containing protein [Chitinophaga sp. MD30],Chitinophaga sp. MD30,Chitinophaga sp. MD30,62.5,73,1,244,29,44,3,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,XP_007388820.1,kinase-like protein [Punctularia strigosozonata HHB-11173 SS5],Punctularia strigosozonata HHB-11173 SS5,Punctularia strigosozonata HHB-11173 SS5,72.727,73,3,244,105,115,1,11
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,NMD21268.1,exodeoxyribonuclease V subunit alpha [Verrucomicrobia bacterium],Verrucomicrobia bacterium,Verrucomicrobia bacterium,81.818,73,2,244,200,210,5,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_024999269.1,DUF4494 domain-containing protein [Prevotella falsenii],Prevotella falsenii,Prevotella falsenii,72.727,73,3,345,102,112,1,11
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_097535575.1,HTH-type transcriptional regulator MlrA [Enterobacter cloacae],Enterobacter cloacae,Enterobacter cloacae,83.333,73,1,345,91,102,5,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,NLT78165.1,hypothetical protein [Planctomycetes bacterium],Planctomycetes bacterium,Planctomycetes bacterium,72.727,73,3,21,513,523,1,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_014773103.1,DUF4249 domain-containing protein [Belliella baltica],Belliella baltica,Belliella baltica,81.818,73,2,21,213,223,4,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_014351175.1,AraC family transcriptional regulator [Nocardia cyriacigeorgica],Nocardia cyriacigeorgica,Nocardia cyriacigeorgica,83.333,73,1,30,73,84,4,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_186466559.1,hypothetical protein [Azospirillum baldaniorum],Azospirillum brasilense Sp245,Azospirillum brasilense Sp245,81.818,73,2,61,69,79,2,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,KAF1760404.1,hypothetical protein GCK72_008653 [Caenorhabditis remanei],Caenorhabditis remanei,Caenorhabditis remanei,71.429,73,1,61,68,81,4,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,TMB20066.1,hypothetical protein E6J71_09995 [Deltaproteobacteria bacterium],Deltaproteobacteria bacterium,Deltaproteobacteria bacterium,62.5,73,1,86,105,120,4,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,MBR34947.1,hypothetical protein [Nitrospinae bacterium],Nitrospinae bacterium,Nitrospinae bacterium,81.818,73,1,86,115,124,3,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,TMA81791.1,hypothetical protein E6J77_16480 [Deltaproteobacteria bacterium],Deltaproteobacteria bacterium,Deltaproteobacteria bacterium,62.5,73,1,86,105,120,4,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,XP_033577070.1,uncharacterized protein BDZ99DRAFT_442610 [Mytilinidion resinicola],Mytilinidion resinicola,Mytilinidion resinicola,68.75,73,0,121,922,937,4,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,EDM34184.1,outer membrane vitamin B12 receptor protein [Pedobacter sp. BAL39],Pedobacter sp. BAL39,Pedobacter sp. BAL39,83.333,73,1,121,217,228,2,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_157274182.1,TonB-dependent receptor [Pedobacter sp. BAL39],Pedobacter sp. BAL39,Pedobacter sp. BAL39,83.333,73,1,121,202,213,2,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_106119628.1,argininosuccinate lyase [Pseudomonas simiae],Pseudomonas simiae,Pseudomonas simiae,81.818,73,0,121,30,38,2,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_069672735.1,argininosuccinate lyase [Pseudomonas simiae],Pseudomonas simiae,Pseudomonas simiae,81.818,73,0,121,30,38,2,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,NLD93025.1,bifunctional UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase/3-hydroxyacyl-ACP dehydratase [Fibrobacter sp.],Fibrobacter sp.,Fibrobacter sp.,75,73,2,122,151,162,3,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,HEU53293.1,TPA: tetratricopeptide repeat protein [Bryobacteraceae bacterium],Bryobacteraceae bacterium,Bryobacteraceae bacterium,81.818,73,2,122,171,181,5,15
+LLALHRSYLTPGDSS,mateus_S_241,WP_188756956.1,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase [Microbacterium album],Microbacterium album,Microbacterium album,90.909,73,1,3.8,377,387,2,12
+LLALHRSYLTPGDSS,mateus_S_241,GGH49755.1,hypothetical protein GCM10010921_28050 [Microbacterium album],Microbacterium album,Microbacterium album,90.909,73,1,3.8,361,371,2,12
+LLALHRSYLTPGDSS,mateus_S_241,NJP06017.1,phosphoribosylformylglycinamidine cyclo-ligase [Chloroflexaceae bacterium],Chloroflexaceae bacterium,Chloroflexaceae bacterium,90.909,73,1,3.8,219,229,1,11
+LLALHRSYLTPGDSS,mateus_S_241,HCG37054.1,TPA: phosphoribosylformylglycinamidine cyclo-ligase [Acidobacteria bacterium],Acidobacteria bacterium,Acidobacteria bacterium,90.909,73,1,3.8,94,104,1,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_081620650.1,helix-turn-helix transcriptional regulator [Nocardiopsis potens],Nocardiopsis potens,Nocardiopsis potens,61.111,73,0,43,11,28,1,11
+LLALHRSYLTPGDSS,mateus_S_241,NTW84944.1,phosphoribosylformylglycinamidine cyclo-ligase [Holophagaceae bacterium],Holophagaceae bacterium,Holophagaceae bacterium,81.818,73,2,43,231,241,1,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_026853098.1,phosphoribosylformylglycinamidine cyclo-ligase [Geothrix fermentans],Geothrix fermentans,Geothrix fermentans,81.818,73,2,43,224,234,1,11
+LLALHRSYLTPGDSS,mateus_S_241,TFH12369.1,phosphoribosylformylglycinamidine cyclo-ligase [Lentisphaerales bacterium],Lentisphaerales bacterium,Lentisphaerales bacterium,81.818,73,2,61,224,234,1,11
+LLALHRSYLTPGDSS,mateus_S_241,HHU15459.1,TPA: phosphoribosylformylglycinamidine cyclo-ligase [Lentisphaerae bacterium],Lentisphaerae bacterium,Lentisphaerae bacterium,81.818,73,2,86,226,236,1,11
+LLALHRSYLTPGDSS,mateus_S_241,GDX13069.1,phosphoribosylformylglycinamidine cyclo-ligase [Acidobacteria bacterium],Acidobacteria bacterium,Acidobacteria bacterium,81.818,73,2,86,225,235,1,11
+LLALHRSYLTPGDSS,mateus_S_241,HAS81275.1,TPA: phosphoribosylformylglycinamidine cyclo-ligase [Verrucomicrobia bacterium],Verrucomicrobia bacterium,Verrucomicrobia bacterium,81.818,73,2,86,222,232,1,11
+LLALHRSYLTPGDSS,mateus_S_241,NTV45591.1,phosphoribosylformylglycinamidine cyclo-ligase [Chlorobiales bacterium],Chlorobiales bacterium,Chlorobiales bacterium,81.818,73,2,86,215,225,1,11
+LLALHRSYLTPGDSS,mateus_S_241,CCX48982.1,dNA repair protein RecO [Bacteroides sp. CAG:927],Bacteroides sp. CAG:927,Bacteroides sp. CAG:927,81.818,73,2,86,176,186,4,14
+LLALHRSYLTPGDSS,mateus_S_241,GEY81822.1,reverse transcriptase domain-containing protein [Tanacetum cinerariifolium],Tanacetum cinerariifolium,Tanacetum cinerariifolium,81.818,73,2,122,96,106,1,11
+LLALHRSYLTPGDSS,mateus_S_241,ABJ87643.1,phosphoribosylformylglycinamidine cyclo-ligase [Candidatus Solibacter usitatus Ellin6076],Candidatus Solibacter usitatus Ellin6076,Candidatus Solibacter usitatus Ellin6076,81.818,73,2,122,233,243,1,11
+LLALHRSYLTPGDSS,mateus_S_241,PWU03008.1,phosphoribosylformylglycinamidine cyclo-ligase [Acidobacteriia bacterium],Acidobacteriia bacterium,Acidobacteriia bacterium,81.818,73,2,122,223,233,1,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_041860191.1,phosphoribosylformylglycinamidine cyclo-ligase [Candidatus Solibacter usitatus],Candidatus Solibacter usitatus,Candidatus Solibacter usitatus,81.818,73,2,122,223,233,1,11
+LLALHRSYLTPGDSS,mateus_S_241,OQA28403.1,Phosphoribosylformylglycinamidine cyclo-ligase [Verrucomicrobia bacterium ADurb.Bin345],Verrucomicrobia bacterium ADurb.Bin345,Verrucomicrobia bacterium ADurb.Bin345,81.818,73,2,122,224,234,1,11
+LLALHRSYLTPGDSS,mateus_S_241,NQU39429.1,phosphoribosylformylglycinamidine cyclo-ligase [Lentisphaerae bacterium],Lentisphaerae bacterium,Lentisphaerae bacterium,81.818,73,2,122,222,232,1,11
+LLALHRSYLTPGDSS,mateus_S_241,TAN37258.1,phosphoribosylformylglycinamidine cyclo-ligase [Verrucomicrobia bacterium],Verrucomicrobia bacterium,Verrucomicrobia bacterium,81.818,73,2,122,222,232,1,11
+LLALHRSYLTPGDSS,mateus_S_241,OGV67255.1,phosphoribosylformylglycinamidine cyclo-ligase [Lentisphaerae bacterium RIFOXYA12_FULL_48_11],Lentisphaerae bacterium RIFOXYA12_FULL_48_11,Lentisphaerae bacterium RIFOXYA12_FULL_48_11,81.818,73,2,122,222,232,1,11
+LLALHRSYLTPGDSS,mateus_S_241,OQW95542.1,phosphoribosylformylglycinamidine cyclo-ligase [Verrucomicrobia bacterium A1],Verrucomicrobia bacterium A1,Verrucomicrobia bacterium A1,81.818,73,2,122,221,231,1,11
+LLALHRSYLTPGDSS,mateus_S_241,MBC8478423.1,phosphoribosylformylglycinamidine cyclo-ligase [bacterium],bacterium,bacterium,81.818,73,2,122,229,239,1,11
+LLALHRSYLTPGDSS,mateus_S_241,NLB60648.1,phosphoribosylformylglycinamidine cyclo-ligase [Lentisphaerae bacterium],Lentisphaerae bacterium,Lentisphaerae bacterium,81.818,73,2,122,221,231,1,11
+LLALHRSYLTPGDSS,mateus_S_241,KAB2925012.1,phosphoribosylformylglycinamidine cyclo-ligase [Bacteriodetes bacterium],Bacteriodetes bacterium,Bacteriodetes bacterium,81.818,73,2,122,219,229,1,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_012843770.1,phosphoribosylformylglycinamidine cyclo-ligase [Rhodothermus marinus],Rhodothermus marinus,Rhodothermus marinus,81.818,73,2,122,219,229,1,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_161540989.1,phosphoribosylformylglycinamidine cyclo-ligase [Rhodothermus marinus],Rhodothermus marinus,Rhodothermus marinus,81.818,73,2,122,219,229,1,11
+LLALHRSYLTPGDSS,mateus_S_241,NUN70459.1,phosphoribosylformylglycinamidine cyclo-ligase [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,81.818,73,2,122,219,229,1,11
+LLALHRSYLTPGDSS,mateus_S_241,HEL93272.1,TPA: phosphoribosylformylglycinamidine cyclo-ligase [Ignavibacteria bacterium],Ignavibacteria bacterium,Ignavibacteria bacterium,81.818,73,2,122,217,227,1,11
+LLALHRSYLTPGDSS,mateus_S_241,RPI68969.1,phosphoribosylformylglycinamidine cyclo-ligase [Ignavibacteriae bacterium],Ignavibacteriae bacterium,Ignavibacteriae bacterium,81.818,73,2,122,217,227,1,11
+LLALHRSYLTPGDSS,mateus_S_241,HAP36699.1,TPA: phosphoribosylformylglycinamidine cyclo-ligase [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,81.818,73,2,122,165,175,1,11
+LLALHRSYLTPGDSS,mateus_S_241,TAK55574.1,phosphoribosylformylglycinamidine cyclo-ligase [Bacteriodetes bacterium],Bacteriodetes bacterium,Bacteriodetes bacterium,81.818,73,2,122,147,157,1,11
+LLALHRSYLTPGDSS,mateus_S_241,XP_028924990.1,sodium-dependent neutral amino acid transporter SLC6A17 [Ornithorhynchus anatinus],Ornithorhynchus anatinus,platypus,81.818,73,2,172,691,701,5,15
+LLALHRSYLTPGDSS,mateus_S_241,XP_014433714.1,sodium-dependent neutral amino acid transporter SLC6A17 [Pelodiscus sinensis],Pelodiscus sinensis,Chinese soft-shelled turtle,81.818,73,2,172,597,607,5,15
+LLALHRSYLTPGDSS,mateus_S_241,XP_005536941.1,hypothetical protein CYME_CMM004C [Cyanidioschyzon merolae strain 10D],Cyanidioschyzon merolae strain 10D,Cyanidioschyzon merolae strain 10D,81.818,73,2,172,441,451,3,13
+LLALHRSYLTPGDSS,mateus_S_241,PYT11284.1,phosphoribosylformylglycinamidine cyclo-ligase [Acidobacteria bacterium],Acidobacteria bacterium,Acidobacteria bacterium,81.818,73,2,172,223,233,1,11
+SIAIPTNFTISVTTE,mateus_S_711,AAO59459.1,spike protein [RNA transcription vector pBRDI1],RNA transcription vector pBRDI1,RNA transcription vector pBRDI1,81.818,73,2,15,838,848,2,12
+SIAIPTNFTISVTTE,mateus_S_711,TKC52576.1,hypothetical protein EI555_018277 [Monodon monoceros],Monodon monoceros,narwhal,81.818,73,2,15,45,55,5,15
+SIAIPTNFTISVTTE,mateus_S_711,WP_102980397.1,MULTISPECIES: gliding motility-associated C-terminal domain-containing protein [Chryseobacterium],Chryseobacterium,Chryseobacterium,64.706,73,0,30,310,326,2,12
+SIAIPTNFTISVTTE,mateus_S_711,MBD9074536.1,hypothetical protein [bacterium],bacterium,bacterium,81.818,73,2,30,128,138,5,15
+SIAIPTNFTISVTTE,mateus_S_711,XP_013446218.1,histone-lysine N-methyltransferase family member SUVH9 [Medicago truncatula],Medicago truncatula,barrel medic,83.333,73,1,61,21,32,1,11
+DDQIGYYRRATRRIR,mateus_N_81,WP_091240627.1,hypothetical protein [Micromonospora matsumotoense],Micromonospora matsumotoense,Micromonospora matsumotoense,58.824,73,1,43,75,91,5,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,NLC06059.1,MFS transporter [Erysipelothrix sp.],Erysipelothrix sp.,Erysipelothrix sp.,81.818,73,2,86,170,180,4,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_007747274.1,hypothetical protein A1O5_08502 [Cladophialophora psammophila CBS 110553],Cladophialophora psammophila CBS 110553,Cladophialophora psammophila CBS 110553,72.727,73,3,121,134,144,2,12
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_014679048.1,PREDICTED: UBA-like domain-containing protein 2-B [Priapulus caudatus],Priapulus caudatus,Priapulus caudatus,58.824,73,1,122,27,43,4,14
+PDILRVYANLGERVR,mateus_NSP12_4561,MPZ76804.1,helix-turn-helix domain-containing protein [Deltaproteobacteria bacterium],Deltaproteobacteria bacterium,Deltaproteobacteria bacterium,91.667,73,0,3.8,15,26,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,TET23891.1,hypothetical protein E3J71_00765 [Candidatus Stahlbacteria bacterium],bacterium (Candidatus Stahlbacteria),bacterium (Candidatus Stahlbacteria),81.818,73,2,15,374,384,2,12
+PDILRVYANLGERVR,mateus_NSP12_4561,TKJ43339.1,hypothetical protein CEE36_04725 [candidate division TA06 bacterium B3_TA06],candidate division TA06 bacterium B3_TA06,candidate division TA06 bacterium B3_TA06,81.818,73,2,15,369,379,2,12
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_147121437.1,Fe-S cluster assembly protein SufB [Sphingorhabdus soli],Sphingorhabdus sp. D-2Q-5-6,Sphingorhabdus sp. D-2Q-5-6,81.818,73,2,21,110,120,1,11
+PDILRVYANLGERVR,mateus_NSP12_4561,MBA3576567.1,Fe-S cluster assembly protein SufB [Sphingomonas sp.],Sphingomonas sp.,Sphingomonas sp.,81.818,73,2,21,109,119,1,11
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_192088781.1,Fe-S cluster assembly protein SufB [Sphingomonas sp. CFBP 13720],Sphingomonas sp. CFBP 13720,Sphingomonas sp. CFBP 13720,81.818,73,2,21,103,113,1,11
+PDILRVYANLGERVR,mateus_NSP12_4561,MBC7985189.1,Fe-S cluster assembly protein SufB [Sphingomonadaceae bacterium],Sphingomonadaceae bacterium,Sphingomonadaceae bacterium,81.818,73,2,21,105,115,1,11
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_187729731.1,Fe-S cluster assembly protein SufB [Sphingomonas sp. JC676],Sphingomonas sp. JC676,Sphingomonas sp. JC676,81.818,73,2,21,103,113,1,11
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_086122044.1,BolA family transcriptional regulator [Hydrogenophaga sp. IBVHS2],Hydrogenophaga sp. IBVHS2,Hydrogenophaga sp. IBVHS2,81.818,73,2,22,48,58,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,MBA4193693.1,BolA family transcriptional regulator [Comamonadaceae bacterium],Comamonadaceae bacterium,Comamonadaceae bacterium,81.818,73,2,22,48,58,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,TNF55064.1,BolA family transcriptional regulator [Burkholderiales bacterium],Burkholderiales bacterium,Burkholderiales bacterium,81.818,73,2,22,48,58,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_141997850.1,tail fiber domain-containing protein [Serratia marcescens],Serratia marcescens,Serratia marcescens,76.923,73,1,30,222,234,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_169541428.1,tail fiber domain-containing protein [Serratia marcescens],Serratia marcescens,Serratia marcescens,76.923,73,1,30,222,234,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_060432907.1,tail fiber domain-containing protein [Serratia marcescens],Serratia marcescens,Serratia marcescens,76.923,73,1,30,222,234,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_164099542.1,tail fiber domain-containing protein [Serratia marcescens],Serratia marcescens,Serratia marcescens,76.923,73,1,30,222,234,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,KXJ94247.1,hypothetical protein Micbo1qcDRAFT_159312 [Microdochium bolleyi],Microdochium bolleyi,Microdochium bolleyi,81.818,73,2,30,64,74,2,12
+PDILRVYANLGERVR,mateus_NSP12_4561,HIC89644.1,TPA: ROK family protein [Anaerolineae bacterium],Anaerolineae bacterium,Anaerolineae bacterium,81.818,73,2,43,338,348,5,15
+PDILRVYANLGERVR,mateus_NSP12_4561,SNT94511.1,AraC-type DNA-binding protein [Clostridiales bacterium],Clostridiales bacterium,Clostridiales bacterium,81.818,73,2,43,167,177,3,13
+PDILRVYANLGERVR,mateus_NSP12_4561,SMC71586.1,AraC-type DNA-binding protein [Clostridiales bacterium],Clostridiales bacterium,Clostridiales bacterium,81.818,73,2,43,167,177,3,13
+GKIADYNYKLPDDFT,mateus_S_416,OYT12443.1,S-adenosylmethionine tRNA ribosyltransferase [Bacteroidetes bacterium 4572_112],Bacteroidetes bacterium 4572_112,Bacteroidetes bacterium 4572_112,90.909,73,1,1.9,8,18,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_188460157.1,hypothetical protein [Marivirga lumbricoides],Marivirga lumbricoides,Marivirga lumbricoides,90.909,73,1,2.7,390,400,2,12
+GKIADYNYKLPDDFT,mateus_S_416,OPZ28855.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroidetes bacterium ADurb.BinA174],Bacteroidetes bacterium ADurb.BinA174,Bacteroidetes bacterium ADurb.BinA174,81.818,73,2,3.8,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_183307394.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Dysgonomonas hofstadii],Dysgonomonas hofstadii,Dysgonomonas hofstadii,81.818,73,2,5.3,55,65,3,13
+GKIADYNYKLPDDFT,mateus_S_416,OJV36202.1,S-adenosylmethionine tRNA ribosyltransferase [Bacteroidia bacterium 43-41],Bacteroidia bacterium 43-41,Bacteroidia bacterium 43-41,81.818,73,2,5.3,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,MBB4036298.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Dysgonomonas hofstadii],Dysgonomonas hofstadii,Dysgonomonas hofstadii,81.818,73,2,5.3,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,CDA45311.1,s-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotella sp. CAG:5226],Prevotella sp. CAG:5226,Prevotella sp. CAG:5226,81.818,73,2,7.5,9,19,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_071123562.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Prevotellamassilia timonensis],Prevotellamassilia timonensis,Prevotellamassilia timonensis,81.818,73,2,7.5,9,19,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_165020180.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Dysgonomonas sp. ZJ279],Dysgonomonas sp. ZJ279,Dysgonomonas sp. ZJ279,81.818,73,2,7.5,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_165044145.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Dysgonomonas sp. ZJ709],Dysgonomonas sp. ZJ709,Dysgonomonas sp. ZJ709,81.818,73,2,7.5,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,NLV51799.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Bacteroidales bacterium],Bacteroidales bacterium,Bacteroidales bacterium,81.818,73,2,7.5,9,19,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_173076794.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Tenuifilum thalassicum],Bacteroidales bacterium 38-H,Bacteroidales bacterium 38-H,81.818,73,2,7.5,8,18,3,13
+GKIADYNYKLPDDFT,mateus_S_416,OJX65290.1,S-adenosylmethionine tRNA ribosyltransferase [Dysgonomonas sp. 37-18],Dysgonomonas sp. 37-18,Dysgonomonas sp. 37-18,81.818,73,2,11,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,SBW02602.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [uncultured Dysgonomonas sp.],uncultured Dysgonomonas sp.,uncultured Dysgonomonas sp.,81.818,73,2,11,11,21,3,13
+GKIADYNYKLPDDFT,mateus_S_416,WP_006841724.1,S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Dysgonomonas mossii],Dysgonomonas mossii,Dysgonomonas mossii,81.818,73,2,11,11,21,3,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,CCU75311.1,Auxin Efflux Carrier superfamily [Blumeria graminis f. sp. hordei DH14],Blumeria graminis f. sp. hordei DH14,Blumeria graminis f. sp. hordei DH14,90,66,1,86,349,358,2,11
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,EPQ64211.1,hypothetical protein BGT96224_4156 [Blumeria graminis f. sp. tritici 96224],Blumeria graminis f. sp. tritici 96224,Blumeria graminis f. sp. tritici 96224,90,66,1,86,349,358,2,11
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_130841826.1,dicarboxylate/amino acid:cation symporter [Corynebacterium neomassiliense],Corynebacterium sp. Marseille-P3888,Corynebacterium sp. Marseille-P3888,90,66,1,86,344,353,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_078057134.1,dicarboxylate/amino acid:cation symporter [Corynebacterium provencense],Corynebacterium provencense,Corynebacterium provencense,90,66,1,86,344,353,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_136359569.1,oxidoreductase [Mesorhizobium composti],Mesorhizobium composti,Mesorhizobium composti,90.909,66,0,121,123,133,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_128625576.1,oxidoreductase [Pseudaminobacter arsenicus],Pseudaminobacter sp. CB3,Pseudaminobacter sp. CB3,90.909,66,0,121,123,133,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_056100414.1,oxidoreductase [Mesorhizobium sp. Root157],Mesorhizobium sp. Root157,Mesorhizobium sp. Root157,90.909,66,0,121,123,133,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,TAN10303.1,oxidoreductase [Rhizobiaceae bacterium],Rhizobiaceae bacterium,Rhizobiaceae bacterium,90.909,66,0,121,123,133,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_080920731.1,oxidoreductase [Pseudaminobacter manganicus],Pseudaminobacter manganicus,Pseudaminobacter manganicus,90.909,66,0,122,123,133,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,NKS55454.1,acyl-CoA dehydrogenase [Rhodococcus hoagii],Rhodococcus hoagii,Rhodococcus hoagii,80,66,2,172,172,181,1,10
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,QGP74843.1,putative pigment protein [Rhodococcus sp.],Rhodococcus sp.,Rhodococcus sp.,80,66,2,172,172,181,1,10
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,XP_022397103.1,hypothetical protein ASPGLDRAFT_870552 [Aspergillus glaucus CBS 516.65],Aspergillus glaucus CBS 516.65,Aspergillus glaucus CBS 516.65,76.923,66,0,244,205,217,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,MBC7893831.1,TonB-dependent receptor [Cytophagaceae bacterium],Cytophagaceae bacterium,Cytophagaceae bacterium,90,66,1,244,68,77,6,15
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,WP_177431515.1,cyclic nucleotide-binding domain-containing protein [Pseudomonas huaxiensis],Pseudomonas sp. WCHPs060044,Pseudomonas sp. WCHPs060044,80,66,2,345,30,39,4,13
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,SUC48291.1,3-methyl-2-oxobutanoate hydroxymethyltransferase [Providencia stuartii],Providencia stuartii,Providencia stuartii,80,66,2,345,210,219,3,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_011395975.1,choice-of-anchor A family protein [Hahella chejuensis],Hahella chejuensis,Hahella chejuensis,90,66,1,11,875,884,5,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,ABC32301.1,Rhs family protein [Hahella chejuensis KCTC 2396],Hahella chejuensis KCTC 2396,Hahella chejuensis KCTC 2396,90,66,1,11,875,884,5,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,RMF89818.1,oligosaccharide repeat unit polymerase [Euryarchaeota archaeon],Euryarchaeota archaeon,Euryarchaeota archaeon,90,66,1,21,280,289,6,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_152803420.1,diguanylate cyclase [Alkalibaculum sp. M08DMB],Alkalibaculum sp. M08DMB,Alkalibaculum sp. M08DMB,90,66,1,30,94,103,6,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,HCN38193.1,TPA: hypothetical protein [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,90,66,1,61,842,851,5,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,MBE2256776.1,T9SS type A sorting domain-containing protein [Ignavibacteria bacterium],Ignavibacteria bacterium,Ignavibacteria bacterium,90,66,1,61,842,851,5,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,HCA42784.1,TPA: hypothetical protein [Bacteroidetes bacterium],Bacteroidetes bacterium,Bacteroidetes bacterium,90,66,1,61,842,851,5,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,MAM86801.1,ABC transporter permease [Hahellaceae bacterium],Hahellaceae bacterium,Hahellaceae bacterium,90,66,1,61,9,18,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,MBC8389756.1,FAD-dependent oxidoreductase [Actinobacteria bacterium],Actinobacteria bacterium,Actinobacteria bacterium,90,66,1,86,68,77,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,SDH28872.1,Tyrosinase co-factor MelC1 [Sinosporangium album],Sinosporangium album,Sinosporangium album,76.923,66,0,86,178,190,6,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_093171289.1,tyrosinase family protein [Sinosporangium album],Sinosporangium album,Sinosporangium album,76.923,66,0,86,162,174,6,15
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_017426473.1,MULTISPECIES: AI-2E family transporter [Paenibacillus],Paenibacillus,Paenibacillus,80,66,2,86,5,14,1,10
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,OXA38711.1,hypothetical protein Fcan01_26656 [Folsomia candida],Folsomia candida,Folsomia candida,90,66,1,86,27,36,1,10
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_192892115.1,type I secretion system permease/ATPase [Vibrio sp. Sal10],Vibrio sp. Sal10,Vibrio sp. Sal10,58.824,66,0,121,239,255,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_086713977.1,type I secretion system permease/ATPase [Vibrio gigantis],Vibrio gigantis,Vibrio gigantis,58.824,66,0,121,239,255,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_135381833.1,type I secretion system permease/ATPase [Vibrio tasmaniensis],Vibrio tasmaniensis,Vibrio tasmaniensis,58.824,66,0,121,239,255,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_114787562.1,type I secretion system permease/ATPase [Vibrio tetraodonis],Vibrio sp. A511,Vibrio sp. A511,58.824,66,0,121,239,255,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_150869494.1,MULTISPECIES: type I secretion system permease/ATPase [Vibrio],Vibrio,Vibrio,58.824,66,0,121,239,255,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_032552440.1,type I secretion system permease/ATPase [Vibrio fortis],Vibrio fortis,Vibrio fortis,58.824,66,0,121,239,255,2,11
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,PSN73376.1,hypothetical protein BS50DRAFT_616764 [Corynespora cassiicola Philippines],Corynespora cassiicola Philippines,Corynespora cassiicola Philippines,80,66,2,121,345,354,5,14
+LLALHRSYLTPGDSS,mateus_S_241,MBC7704657.1,toprim domain-containing protein [Rhodoferax sp.],Rhodoferax sp.,Rhodoferax sp.,90,66,1,21,167,176,1,10
+LLALHRSYLTPGDSS,mateus_S_241,WP_179634194.1,toprim domain-containing protein [Sphaerotilus montanus],Sphaerotilus montanus,Sphaerotilus montanus,90,66,1,21,169,178,1,10
+LLALHRSYLTPGDSS,mateus_S_241,PNW70767.1,hypothetical protein CHLRE_17g733450v5 [Chlamydomonas reinhardtii],Chlamydomonas reinhardtii,Chlamydomonas reinhardtii,90,66,1,30,3849,3858,2,11
+LLALHRSYLTPGDSS,mateus_S_241,PNW77671.1,hypothetical protein CHLRE_10g446600v5 [Chlamydomonas reinhardtii],Chlamydomonas reinhardtii,Chlamydomonas reinhardtii,90,66,1,30,3249,3258,2,11
+LLALHRSYLTPGDSS,mateus_S_241,PNW79535.1,hypothetical protein CHLRE_08g358543v5 [Chlamydomonas reinhardtii],Chlamydomonas reinhardtii,Chlamydomonas reinhardtii,90,66,1,30,2827,2836,2,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_085594800.1,hypothetical protein [Thalassospira sp. MCCC 1A01428],Thalassospira sp. MCCC 1A01428,Thalassospira sp. MCCC 1A01428,90,66,1,43,112,121,1,10
+LLALHRSYLTPGDSS,mateus_S_241,NNE70274.1,phosphoribosylformylglycinamidine cyclo-ligase [Rhodothermales bacterium],Rhodothermales bacterium,Rhodothermales bacterium,90,66,1,61,220,229,1,10
+LLALHRSYLTPGDSS,mateus_S_241,WP_055930254.1,ThiF family adenylyltransferase [Duganella sp. Root336D2],Duganella sp. Root336D2,Duganella sp. Root336D2,90,66,1,86,201,210,3,12
+LLALHRSYLTPGDSS,mateus_S_241,WP_090434194.1,ThiF family adenylyltransferase [Duganella sp. CF458],Duganella sp. CF458,Duganella sp. CF458,90,66,1,86,201,210,3,12
+LLALHRSYLTPGDSS,mateus_S_241,WP_057246532.1,ThiF family adenylyltransferase [Duganella sp. Root198D2],Duganella sp. Root198D2,Duganella sp. Root198D2,90,66,1,86,201,210,3,12
+LLALHRSYLTPGDSS,mateus_S_241,KAA8540306.1,hypothetical protein F0562_024131 [Nyssa sinensis],Nyssa sinensis,Nyssa sinensis,90,66,1,121,33,42,4,13
+LLALHRSYLTPGDSS,mateus_S_241,KAA8589802.1,hypothetical protein FQN60_013167 [Etheostoma spectabile],Etheostoma spectabile,orangethroat darter,90,66,1,122,227,236,4,13
+SIAIPTNFTISVTTE,mateus_S_711,CAW42276.1,L1 protein [Human papillomavirus 113],Human papillomavirus 113,Human papillomavirus 113,100,66,0,2.7,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,WP_077991615.1,hypothetical protein [Bartonella apis],Bartonella apis,Bartonella apis,90,66,1,15,195,204,1,10
+SIAIPTNFTISVTTE,mateus_S_711,WP_077991630.1,hypothetical protein [Bartonella apis],Bartonella apis,Bartonella apis,90,66,1,15,61,70,1,10
+SIAIPTNFTISVTTE,mateus_S_711,CAA75454.1,L1 protein [human papillomavirus 75],Human papillomavirus type 75,Human papillomavirus type 75,90,66,1,21,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAA75461.1,L1 protein [human papillomavirus 76],Human papillomavirus type 76,Human papillomavirus type 76,90,66,1,21,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AEM24669.1,major capsid protein [Human papillomavirus 145],Human papillomavirus 145,Human papillomavirus 145,90,66,1,21,349,358,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AHJ81238.1,L1 protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,21,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AYA94000.1,L1 protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,21,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,WP_089370108.1,hypothetical protein [Dokdonia pacifica],Dokdonia pacifica,Dokdonia pacifica,90,66,1,21,212,221,3,12
+SIAIPTNFTISVTTE,mateus_S_711,WP_059265187.1,esterase [Streptomyces corchorusii],Streptomyces corchorusii,Streptomyces corchorusii,90,66,1,21,59,68,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_014677187.1,esterase [Streptomyces hygroscopicus],Streptomyces hygroscopicus,Streptomyces hygroscopicus,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,TWV41856.1,esterase [Streptomyces misionensis],Streptomyces misionensis,Streptomyces misionensis,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,RRQ72657.1,esterase [Streptomyces griseofuscus],Streptomyces griseofuscus,Streptomyces griseofuscus,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_099894694.1,esterase [Streptomyces sp. 61],Streptomyces sp. 61,Streptomyces sp. 61,90,66,1,21,55,64,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_030787460.1,MULTISPECIES: esterase [Streptomyces],Streptomyces,Streptomyces,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_169437193.1,esterase [Streptomyces sp. GMY01],Streptomyces sp. GMY01,Streptomyces sp. GMY01,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_123516464.1,esterase [Streptomyces sp. 2132.2],Streptomyces sp. 2132.2,Streptomyces sp. 2132.2,90,66,1,21,55,64,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_009192812.1,MULTISPECIES: esterase [unclassified Streptomyces],unclassified Streptomyces,unclassified Streptomyces,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_058083542.1,esterase [Streptomyces hygroscopicus],Streptomyces hygroscopicus,Streptomyces hygroscopicus,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,MYS46517.1,esterase [Streptomyces sp. SID5998],Streptomyces sp. SID5998,Streptomyces sp. SID5998,90,66,1,21,57,66,5,14
+SIAIPTNFTISVTTE,mateus_S_711,PIG48143.1,S-formylglutathione hydrolase FrmB [Streptomyces sp. 61],Streptomyces sp. 61,Streptomyces sp. 61,90,66,1,21,46,55,5,14
+SIAIPTNFTISVTTE,mateus_S_711,ROR00102.1,S-formylglutathione hydrolase FrmB [Streptomyces sp. 2132.2],Streptomyces sp. 2132.2,Streptomyces sp. 2132.2,90,66,1,21,46,55,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_189757433.1,esterase [Streptomyces eurythermus],Streptomyces eurythermus,Streptomyces eurythermus,90,66,1,21,45,54,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_181797627.1,esterase [Streptomyces sp. WELS2],Streptomyces sp. WELS2,Streptomyces sp. WELS2,90,66,1,21,45,54,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_189820140.1,esterase [Streptomyces olivaceoviridis],Streptomyces olivaceoviridis,Streptomyces olivaceoviridis,90,66,1,21,45,54,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_172624517.1,esterase [Streptomyces griseofuscus],Streptomyces griseofuscus,Streptomyces griseofuscus,90,66,1,21,43,52,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_186785534.1,esterase [Streptomyces misionensis],Streptomyces misionensis,Streptomyces misionensis,90,66,1,21,43,52,5,14
+SIAIPTNFTISVTTE,mateus_S_711,WP_175252462.1,esterase [Streptomyces hygroscopicus],Streptomyces hygroscopicus,Streptomyces hygroscopicus,90,66,1,21,43,52,5,14
+SIAIPTNFTISVTTE,mateus_S_711,MYX41728.1,esterase [Streptomyces sp. SID89],Streptomyces sp. SID89,Streptomyces sp. SID89,90,66,1,21,14,23,5,14
+SIAIPTNFTISVTTE,mateus_S_711,CAE84967.1,major capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,21,25,34,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AAB97523.1,capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,21,18,27,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAA03931.1,L1 [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,21,14,23,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ARS33699.1,"L1 major capsid protein, partial [human papillomavirus 76]",Human papillomavirus type 76,Human papillomavirus type 76,90,66,1,22,3,12,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAW42244.1,L1 protein [Human papillomavirus 100],Human papillomavirus 100,Human papillomavirus 100,90,66,1,30,382,391,6,15
+SIAIPTNFTISVTTE,mateus_S_711,YP_006393301.1,major capsid protein [Human papillomavirus type 137],Human papillomavirus type 137,Human papillomavirus type 137,90,66,1,30,349,358,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AAY89824.1,L1 protein [Human papillomavirus type 38b],Human papillomavirus type 38b,Human papillomavirus type 38b,90,66,1,30,349,358,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AVE16211.1,major capsid protein [Human papillomavirus type 198],Human papillomavirus type 198,Human papillomavirus type 198,90,66,1,30,351,360,6,15
+SIAIPTNFTISVTTE,mateus_S_711,P50814.2,RecName: Full=Major capsid protein L1 [Human papillomavirus 38],Human papillomavirus 38,Human papillomavirus 38,90,66,1,30,349,358,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ATQ38118.1,L1 [Betapapillomavirus 2],Betapapillomavirus 2,Betapapillomavirus 2,90,66,1,30,346,355,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AYA93516.1,L1 protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,QCQ84425.1,L1 [Human papillomavirus 38],Human papillomavirus 38,Human papillomavirus 38,90,66,1,30,349,358,6,15
+SIAIPTNFTISVTTE,mateus_S_711,NP_041866.1,late protein [Human papillomavirus 9],Human papillomavirus 9,Human papillomavirus 9,90,66,1,30,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ACC78269.1,L1 protein [Human papillomavirus 110],Human papillomavirus 110,Human papillomavirus 110,90,66,1,30,350,359,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ACC78276.1,L1 protein [Human papillomavirus 111],Human papillomavirus 111,Human papillomavirus 111,90,66,1,30,349,358,6,15
+SIAIPTNFTISVTTE,mateus_S_711,QCQ84371.1,L1 [Human papillomavirus 38],Human papillomavirus 38,Human papillomavirus 38,90,66,1,30,46,55,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ACK56313.1,L1 capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,18,27,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ACK56615.1,L1 capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,18,27,6,15
+SIAIPTNFTISVTTE,mateus_S_711,ACK56614.1,L1 capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,18,27,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AAB97524.1,capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,18,27,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAB54539.1,L1 [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,14,23,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAB54541.1,L1 [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,14,23,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAB54540.1,L1 [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,14,23,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAQ15767.1,major capsid protein [Human papillomavirus 38],Human papillomavirus 38,Human papillomavirus 38,90,66,1,30,17,26,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAQ15765.1,major capsid protein [Human papillomavirus 38],Human papillomavirus 38,Human papillomavirus 38,90,66,1,30,17,26,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAQ15745.1,major capsid protein [Human papillomavirus 38],Human papillomavirus 38,Human papillomavirus 38,90,66,1,30,17,26,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CAG26714.1,major capsid protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,17,26,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CEF52509.1,major capsid L1 protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,14,23,6,15
+SIAIPTNFTISVTTE,mateus_S_711,CEF52503.1,major capsid L1 protein [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,7,16,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AAC97983.1,major capsid protein L1 [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,7,16,6,15
+SIAIPTNFTISVTTE,mateus_S_711,AAC97982.1,major capsid protein L1 [Human papillomavirus],Human papillomavirus,Human papillomavirus,90,66,1,30,7,16,6,15
+SIAIPTNFTISVTTE,mateus_S_711,YP_002427696.1,major capsid protein [Erinaceus europaeus papillomavirus 1],Erinaceus europaeus papillomavirus 1,Erinaceus europaeus papillomavirus 1,90,66,1,43,346,355,6,15
+DDQIGYYRRATRRIR,mateus_N_81,WP_153724930.1,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD [Heliorestis convoluta],Heliorestis convoluta,Heliorestis convoluta,90,66,1,5.3,151,160,3,12
+DDQIGYYRRATRRIR,mateus_N_81,NP_491027.1,Uncharacterized protein CELE_F32B5.1 [Caenorhabditis elegans],Caenorhabditis elegans,Caenorhabditis elegans,80,66,2,43,5,14,3,12
+DDQIGYYRRATRRIR,mateus_N_81,XP_003057824.1,predicted protein [Micromonas pusilla CCMP1545],Micromonas pusilla CCMP1545,Micromonas pusilla CCMP1545,80,66,2,61,1265,1274,6,15
+DDQIGYYRRATRRIR,mateus_N_81,HHS66192.1,TPA: hypothetical protein [Nitrososphaeria archaeon],Nitrososphaeria archaeon,Nitrososphaeria archaeon,80,66,2,61,264,273,6,15
+DDQIGYYRRATRRIR,mateus_N_81,WP_066010130.1,helix-turn-helix transcriptional regulator [Thioclava sp. SK-1],Thioclava sp. SK-1,Thioclava sp. SK-1,90,66,1,61,74,83,2,11
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_013116479.1,PREDICTED: protein sel-1 homolog 1 [Stomoxys calcitrans],Stomoxys calcitrans,stable fly,90,66,1,21,11,20,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_062158688.1,ABC transporter permease [Deinococcus actinosclerus],Deinococcus actinosclerus,Deinococcus actinosclerus,90,66,1,61,197,206,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_191301779.1,methionine ABC transporter permease MetI [Deinococcus indicus],Deinococcus indicus,Deinococcus indicus,90,66,1,61,197,206,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_155299384.1,ABC transporter permease [Deinococcus sp. KR-1],Deinococcus sp. KR-1,Deinococcus sp. KR-1,90,66,1,61,197,206,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_033431597.1,uncharacterized protein ATNIH1004_001140 [Aspergillus tanneri],Aspergillus tanneri,Aspergillus tanneri,80,66,2,86,63,72,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,KAF8372801.1,hypothetical protein PRIPAC_79230 [Pristionchus pacificus],Pristionchus pacificus,Pristionchus pacificus,90,66,1,121,839,848,3,12
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,GAD95842.1,conserved hypothetical protein [Byssochlamys spectabilis No. 5],Byssochlamys spectabilis No. 5,Byssochlamys spectabilis No. 5,80,66,2,122,63,72,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_028489294.1,ICE2-domain-containing protein [Byssochlamys spectabilis],Byssochlamys spectabilis,Byssochlamys spectabilis,80,66,2,122,63,72,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_078305577.1,ABC transporter permease [Deinococcus sp. LM3],Deinococcus sp. LM3,Deinococcus sp. LM3,90,66,1,122,197,206,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_188845823.1,methionine ABC transporter permease MetI [Deinococcus saudiensis],Deinococcus saudiensis,Deinococcus saudiensis,90,66,1,122,197,206,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_088249339.1,ABC transporter permease [Deinococcus indicus],Deinococcus indicus,Deinococcus indicus,90,66,1,122,197,206,1,10
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_022607902.1,cornifelin-like [Seriola dumerili],Seriola dumerili,greater amberjack,90,66,1,122,23,32,2,11
+PDILRVYANLGERVR,mateus_NSP12_4561,NLK98970.1,site-specific integrase [Epulopiscium sp.],Epulopiscium sp.,Epulopiscium sp.,90.909,66,0,30,505,515,1,10
+PDILRVYANLGERVR,mateus_NSP12_4561,PIV90679.1,hypothetical protein COW46_02500 [Candidatus Gracilibacteria bacterium CG17_big_fil_post_rev_8_21_14_2_50_48_13],Candidatus Gracilibacteria bacterium CG17_big_fil_post_rev_8_21_14_2_50_48_13,Candidatus Gracilibacteria bacterium CG17_big_fil_post_rev_8_21_14_2_50_48_13,90,66,1,30,110,119,1,10
+PDILRVYANLGERVR,mateus_NSP12_4561,WP_135770881.1,hypothetical protein [Leptospira bouyouniensis],Leptospira bouyouniensis,Leptospira bouyouniensis,80,66,2,43,24,33,1,10
+GKIADYNYKLPDDFT,mateus_S_416,OGF44966.1,hypothetical protein A2231_08670 [Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8],Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8,Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8,83.333,66,0,7.5,377,388,6,15
+GKIADYNYKLPDDFT,mateus_S_416,XP_023004450.1,U3 small nucleolar RNA-associated protein 14 homolog A [Cucurbita maxima],Cucurbita maxima,winter squash,80,66,2,7.5,98,107,5,14
+GKIADYNYKLPDDFT,mateus_S_416,XP_022960057.1,U3 small nucleolar RNA-associated protein 14 homolog A [Cucurbita moschata],Cucurbita moschata,crookneck pumpkin,80,66,2,7.5,98,107,5,14
+GKIADYNYKLPDDFT,mateus_S_416,XP_023514378.1,U3 small nucleolar RNA-associated protein 14 homolog A [Cucurbita pepo subsp. pepo],Cucurbita pepo subsp. pepo,vegetable marrow,80,66,2,7.5,97,106,5,14
+GKIADYNYKLPDDFT,mateus_S_416,OJJ39953.1,hypothetical protein ASPWEDRAFT_49798 [Aspergillus wentii DTO 134E9],Aspergillus wentii DTO 134E9,Aspergillus wentii DTO 134E9,80,66,2,11,271,280,6,15
+YNYKLPDDFTGCVIA,mateus_S_421,OGF44966.1,hypothetical protein A2231_08670 [Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8],Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8,Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8,83.333,66,0,7.5,377,388,1,10
+YNYKLPDDFTGCVIA,mateus_S_421,XP_023004450.1,U3 small nucleolar RNA-associated protein 14 homolog A [Cucurbita maxima],Cucurbita maxima,winter squash,88.889,66,1,15,99,107,1,9
+YNYKLPDDFTGCVIA,mateus_S_421,XP_022960057.1,U3 small nucleolar RNA-associated protein 14 homolog A [Cucurbita moschata],Cucurbita moschata,crookneck pumpkin,88.889,66,1,15,99,107,1,9
+YNYKLPDDFTGCVIA,mateus_S_421,XP_023514378.1,U3 small nucleolar RNA-associated protein 14 homolog A [Cucurbita pepo subsp. pepo],Cucurbita pepo subsp. pepo,vegetable marrow,88.889,66,1,15,98,106,1,9
+YNYKLPDDFTGCVIA,mateus_S_421,OJJ39953.1,hypothetical protein ASPWEDRAFT_49798 [Aspergillus wentii DTO 134E9],Aspergillus wentii DTO 134E9,Aspergillus wentii DTO 134E9,80,66,2,11,271,280,1,10
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,KUK69304.1,CRISPR-associated endonuclease Cas1 [Methanocalculus sp. 52_23],Methanocalculus sp. 52_23,Methanocalculus sp. 52_23,88.889,60,1,172,133,141,2,10
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,EAE5070629.1,1-phosphofructokinase family hexose kinase [Listeria monocytogenes],Listeria monocytogenes,Listeria monocytogenes,88.889,60,1,244,78,86,1,9
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,KAF8373254.1,hypothetical protein PRIPAC_79683 [Pristionchus pacificus],Pristionchus pacificus,Pristionchus pacificus,88.889,60,1,244,475,483,1,9
+NHNFLVQAGNVQLRV,mateus_NSP5_3326,AST91416.1,RNA polymerase sigma-I factor [Bacillus cohnii],Bacillus cohnii,Bacillus cohnii,88.889,60,1,345,24,32,6,14
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,NOZ32676.1,C4-dicarboxylate ABC transporter permease [Alphaproteobacteria bacterium],Alphaproteobacteria bacterium,Alphaproteobacteria bacterium,88.889,60,1,121,188,196,4,12
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,WP_188467742.1,response regulator [Marivirga lumbricoides],Marivirga lumbricoides,Marivirga lumbricoides,88.889,60,1,122,100,108,6,14
+LLALHRSYLTPGDSS,mateus_S_241,TIA21935.1,hypothetical protein D6C80_01513 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,21,29,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THZ10557.1,hypothetical protein D6C91_09673 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,21,29,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THW69115.1,hypothetical protein D6D19_08577 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,21,29,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THX06102.1,hypothetical protein D6D18_02939 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,TIA77883.1,hypothetical protein D6C76_04410 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THZ24797.1,hypothetical protein D6C89_04724 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THX34746.1,hypothetical protein D6D12_00620 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THW36948.1,hypothetical protein D6D21_08484 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THY70261.1,hypothetical protein D6C95_10338 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THW62366.1,hypothetical protein D6D20_04343 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THW61377.1,hypothetical protein D6D25_02443 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THX11175.1,hypothetical protein D6D13_05146 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,TIA46288.1,hypothetical protein D6C79_05282 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,TIA21759.1,hypothetical protein D6C81_03680 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,THZ75393.1,hypothetical protein D6C85_02920 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,60,0,21,13,21,3,11
+LLALHRSYLTPGDSS,mateus_S_241,WP_014626667.1,hypothetical protein [Streptomyces cattleya],Streptomyces cattleya,Streptomyces cattleya,88.889,60,1,172,12,20,5,13
+SIAIPTNFTISVTTE,mateus_S_711,WP_111684487.1,hypothetical protein [Winogradskyella tangerina],Winogradskyella tangerina,Winogradskyella tangerina,100,60,0,30,213,221,3,11
+SIAIPTNFTISVTTE,mateus_S_711,RNC86508.1,hypothetical protein ED556_09495 [Winogradskyella sp.],Winogradskyella sp.,Winogradskyella sp.,100,60,0,30,211,219,3,11
+DDQIGYYRRATRRIR,mateus_N_81,EPX59280.1,hypothetical protein D187_003184 [Cystobacter fuscus DSM 2262],Cystobacter fuscus DSM 2262,Cystobacter fuscus DSM 2262,88.889,60,1,61,444,452,1,9
+DDQIGYYRRATRRIR,mateus_N_81,WP_051256600.1,DUF4231 domain-containing protein [Cystobacter fuscus],Cystobacter fuscus,Cystobacter fuscus,88.889,60,1,61,438,446,1,9
+DDQIGYYRRATRRIR,mateus_N_81,WP_071902977.1,DUF4231 domain-containing protein [Cystobacter ferrugineus],Cystobacter ferrugineus,Cystobacter ferrugineus,88.889,60,1,61,438,446,1,9
+DDQIGYYRRATRRIR,mateus_N_81,NOY69677.1,hypothetical protein [Deltaproteobacteria bacterium],Deltaproteobacteria bacterium,Deltaproteobacteria bacterium,88.889,60,1,61,157,165,6,14
+DDQIGYYRRATRRIR,mateus_N_81,KAF7396213.1,hypothetical protein [Vespula vulgaris],Vespula vulgaris,Vespula vulgaris,88.889,60,1,61,258,266,6,14
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,XP_035343434.1,uncharacterized protein TRUGW13939_04364 [Talaromyces rugulosus],Talaromyces rugulosus,Talaromyces rugulosus,88.889,60,1,86,505,513,5,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_133876104.1,ABC transporter permease [Actinoplanes brasiliensis],Actinoplanes brasiliensis,Actinoplanes brasiliensis,100,60,0,86,34,42,1,9
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_089255198.1,ABC transporter permease [Asanoa hainanensis],Asanoa hainanensis,Asanoa hainanensis,100,60,0,86,28,36,1,9
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_097328014.1,ABC transporter permease [Actinoplanes atraurantiacus],Actinoplanes atraurantiacus,Actinoplanes atraurantiacus,100,60,0,86,28,36,1,9
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_127508573.1,ABC transporter permease [Actinoplanes sp. LAM7112],Actinoplanes sp. LAM7112,Actinoplanes sp. LAM7112,100,60,0,86,28,36,1,9
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_173061326.1,ABC transporter permease [Phytohabitans houttuyneae],Phytohabitans houttuyneae,Phytohabitans houttuyneae,100,60,0,86,28,36,1,9
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_173165738.1,ABC transporter permease [Phytohabitans suffuscus],Phytohabitans suffuscus,Phytohabitans suffuscus,100,60,0,86,28,36,1,9
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,CRG86401.1,UPF0613 protein [Talaromyces islandicus],Talaromyces islandicus,Talaromyces islandicus,88.889,60,1,86,63,71,5,13
+NRYFRLTLGVYDYLV,mateus_NSP6_3801,KAA0265275.1,GNAT family N-acetyltransferase [Chloroflexi bacterium],Chloroflexi bacterium,Chloroflexi bacterium,100,53,0,86,13,20,1,8
+LLALHRSYLTPGDSS,mateus_S_241,XP_028862496.1,"RAP protein, putative [Plasmodium malariae]",Plasmodium malariae,Plasmodium malariae,100,53,0,172,16,23,4,11
+LLALHRSYLTPGDSS,mateus_S_241,THX75942.1,hypothetical protein D6D04_07075 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,53,0,172,14,21,4,11
+LLALHRSYLTPGDSS,mateus_S_241,THX70822.1,hypothetical protein D6D05_08474 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,53,0,172,14,21,4,11
+LLALHRSYLTPGDSS,mateus_S_241,THW06250.1,hypothetical protein D6D24_09997 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,53,0,172,14,21,4,11
+LLALHRSYLTPGDSS,mateus_S_241,THX38900.1,hypothetical protein D6D10_04705 [Aureobasidium pullulans],Aureobasidium pullulans,Aureobasidium pullulans,100,53,0,172,14,21,4,11
+DDQIGYYRRATRRIR,mateus_N_81,WP_176593104.1,TonB-dependent receptor [Sphingobium sp. EM0848],Sphingobium sp. EM0848,Sphingobium sp. EM0848,100,53,0,43,402,409,1,8
+DDQIGYYRRATRRIR,mateus_N_81,PZU12146.1,TonB-dependent receptor [Sphingobium sp.],Sphingobium sp.,Sphingobium sp.,100,53,0,43,402,409,1,8
+DDQIGYYRRATRRIR,mateus_N_81,WP_176598995.1,TonB-dependent receptor [Sphingobium sp. 15-1],Sphingobium sp. 15-1,Sphingobium sp. 15-1,100,53,0,43,402,409,1,8
+DDQIGYYRRATRRIR,mateus_N_81,TWT36715.1,coenzyme F420-reducing hydrogenase subunit beta [Planctomycetes bacterium KOR34],Planctomycetes bacterium KOR34,Planctomycetes bacterium KOR34,100,53,0,43,100,107,1,8
+DDQIGYYRRATRRIR,mateus_N_81,WP_064066378.1,hypothetical protein [Rhodococcus ruber],Rhodococcus ruber,Rhodococcus ruber,100,53,0,43,151,158,2,9
+DDQIGYYRRATRRIR,mateus_N_81,KAF5901443.1,granulocyte colony-stimulating factor receptor [Clarias magur],Clarias magur,Clarias magur,100,53,0,61,901,908,6,13
+DDQIGYYRRATRRIR,mateus_N_81,TQV82471.1,CRISPR-associated helicase Cas3' [Exilibacterium tricleocarpae],Cellvibrionaceae bacterium R142,Cellvibrionaceae bacterium R142,100,53,0,61,242,249,6,13
+DDQIGYYRRATRRIR,mateus_N_81,WP_179957527.1,CRISPR-associated helicase Cas3' [Exilibacterium tricleocarpae],Cellvibrionaceae bacterium R142,Cellvibrionaceae bacterium R142,100,53,0,61,237,244,6,13
+DDQIGYYRRATRRIR,mateus_N_81,KAA8591764.1,hypothetical protein FQN60_017138 [Etheostoma spectabile],Etheostoma spectabile,orangethroat darter,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_019720874.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Hippocampus comes]",Hippocampus comes,tiger tail seahorse,100,53,0,61,299,306,6,13
+DDQIGYYRRATRRIR,mateus_N_81,KAF7708719.1,hypothetical protein HF521_017776 [Silurus meridionalis],Silurus meridionalis,Silurus meridionalis,100,53,0,61,213,220,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_027005574.1,"28S ribosomal protein S15, mitochondrial isoform X1 [Tachysurus fulvidraco]",Tachysurus fulvidraco,yellow catfish,100,53,0,61,235,242,6,13
+DDQIGYYRRATRRIR,mateus_N_81,TWW80057.1,"28S ribosomal protein S15, mitochondrial [Takifugu flavidus]",Takifugu flavidus,sansaifugu,100,53,0,61,235,242,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_030606028.1,"28S ribosomal protein S15, mitochondrial isoform X1 [Archocentrus centrarchus]",Archocentrus centrarchus,flier cichlid,100,53,0,61,224,231,6,13
+DDQIGYYRRATRRIR,mateus_N_81,TMS10479.1,"28S ribosomal protein S15, mitochondrial [Larimichthys crocea]",Larimichthys crocea,large yellow croaker,100,53,0,61,219,226,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_027005575.1,"28S ribosomal protein S15, mitochondrial isoform X2 [Tachysurus fulvidraco]",Tachysurus fulvidraco,yellow catfish,100,53,0,61,213,220,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_026782582.1,"28S ribosomal protein S15, mitochondrial [Pangasianodon hypophthalmus]",Pangasianodon hypophthalmus,striped catfish,100,53,0,61,211,218,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_029929016.1,"28S ribosomal protein S15, mitochondrial [Myripristis murdjan]",Myripristis murdjan,pinecone soldierfish,100,53,0,61,213,220,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_023819956.1,"28S ribosomal protein S15, mitochondrial [Oryzias latipes]",Oryzias latipes,Japanese medaka,100,53,0,61,213,220,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_012812478.1,"28S ribosomal protein S15, mitochondrial isoform X1 [Xenopus tropicalis]",Xenopus tropicalis,tropical clawed frog,100,53,0,61,212,219,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_017563746.1,"28S ribosomal protein S15, mitochondrial [Pygocentrus nattereri]",Pygocentrus nattereri,red-bellied piranha,100,53,0,61,203,210,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_024124114.1,"LOW QUALITY PROTEIN: 28S ribosomal protein S15, mitochondrial [Oryzias melastigma]",Oryzias melastigma,Indian medaka,100,53,0,61,210,217,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_036442608.1,"28S ribosomal protein S15, mitochondrial [Colossoma macropomum]",Colossoma macropomum,tambaqui,100,53,0,61,203,210,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_004551040.1,"28S ribosomal protein S15, mitochondrial [Maylandia zebra]",Maylandia zebra,zebra mbuna,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_032373377.1,"28S ribosomal protein S15, mitochondrial isoform X1 [Etheostoma spectabile]",Etheostoma spectabile,orangethroat darter,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_031596540.1,"28S ribosomal protein S15, mitochondrial [Oreochromis aureus]",Oreochromis aureus,Oreochromis aureus,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,KAF4088040.1,hypothetical protein AMELA_G00078210 [Ameiurus melas],Ameiurus melas,black bullhead,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_030606029.1,"28S ribosomal protein S15, mitochondrial isoform X2 [Archocentrus centrarchus]",Archocentrus centrarchus,flier cichlid,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_017330993.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Ictalurus punctatus]",Ictalurus punctatus,channel catfish,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_012734232.2,"28S ribosomal protein S15, mitochondrial isoform X1 [Fundulus heteroclitus]",Fundulus heteroclitus,mummichog,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_010729928.1,"28S ribosomal protein S15, mitochondrial [Larimichthys crocea]",Larimichthys crocea,large yellow croaker,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,TKS82368.1,"28S ribosomal protein S15, mitochondrial [Collichthys lucidus]",Collichthys lucidus,big head croaker,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_033497165.1,"28S ribosomal protein S15, mitochondrial [Epinephelus lanceolatus]",Epinephelus lanceolatus,giant grouper,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,KAE8289072.1,"28S ribosomal protein S15, mitochondrial [Larimichthys crocea]",Larimichthys crocea,large yellow croaker,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,TKS82373.1,"28S ribosomal protein S15, mitochondrial [Collichthys lucidus]",Collichthys lucidus,big head croaker,100,53,0,61,208,215,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_005736163.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Pundamilia nyererei]",Pundamilia nyererei,Pundamilia nyererei,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_032373378.1,"28S ribosomal protein S15, mitochondrial isoform X2 [Etheostoma spectabile]",Etheostoma spectabile,orangethroat darter,100,53,0,61,205,212,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_005925634.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Haplochromis burtoni]",Haplochromis burtoni,Burton's mouthbrooder,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_006791746.1,"28S ribosomal protein S15, mitochondrial [Neolamprologus brichardi]",Neolamprologus brichardi,Neolamprologus brichardi,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_034729814.1,"28S ribosomal protein S15, mitochondrial [Etheostoma cragini]",Etheostoma cragini,Arkansas darter,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,KAF6714994.1,"28S ribosomal protein S15, mitochondrial [Oryzias melastigma]",Oryzias melastigma,Indian medaka,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_035991156.1,"28S ribosomal protein S15, mitochondrial isoform X2 [Fundulus heteroclitus]",Fundulus heteroclitus,mummichog,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_031145518.1,"28S ribosomal protein S15, mitochondrial [Sander lucioperca]",Sander lucioperca,pike-perch,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_032414539.1,"28S ribosomal protein S15, mitochondrial [Xiphophorus hellerii]",Xiphophorus hellerii,green swordtail,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_028436356.1,"28S ribosomal protein S15, mitochondrial [Perca flavescens]",Perca flavescens,yellow perch,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_020445827.1,"28S ribosomal protein S15, mitochondrial [Monopterus albus]",Monopterus albus,swamp eel,100,53,0,61,205,212,6,13
+DDQIGYYRRATRRIR,mateus_N_81,KAF1388220.1,hypothetical protein PFLUV_G00087930 [Perca fluviatilis],Perca fluviatilis,European perch,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_030248354.1,"28S ribosomal protein S15, mitochondrial [Sparus aurata]",Sparus aurata,gilthead seabream,100,53,0,61,207,214,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_018555594.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Lates calcarifer]",Lates calcarifer,barramundi perch,100,53,0,61,204,211,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_005796007.2,"LOW QUALITY PROTEIN: 28S ribosomal protein S15, mitochondrial [Xiphophorus maculatus]",Xiphophorus maculatus,southern platyfish,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_008429333.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Poecilia reticulata]",Poecilia reticulata,guppy,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,PWA20703.1,hypothetical protein CCH79_00011519 [Gambusia affinis],Gambusia affinis,western mosquitofish,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_026173494.1,"28S ribosomal protein S15, mitochondrial [Mastacembelus armatus]",Mastacembelus armatus,zig-zag eel,100,53,0,61,204,211,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_027868586.1,"28S ribosomal protein S15, mitochondrial [Xiphophorus couchianus]",Xiphophorus couchianus,Monterrey platyfish,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_007557300.1,"PREDICTED: 28S ribosomal protein S15, mitochondrial [Poecilia formosa]",Poecilia formosa,Amazon molly,100,53,0,61,206,213,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_037641600.1,"28S ribosomal protein S15, mitochondrial [Sebastes umbrosus]",Sebastes umbrosus,honeycomb rockfish,100,53,0,61,206,213,6,13
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,WP_084028758.1,MFS transporter [Candidatus Rickettsiella isopodorum],Candidatus Rickettsiella isopodorum,Candidatus Rickettsiella isopodorum,100,53,0,21,93,100,8,15
+LLVLVQSTQWSLFFF,mateus_NSP6_3591,MBD53383.1,hypothetical protein [Acidimicrobiaceae bacterium],Acidimicrobiaceae bacterium,Acidimicrobiaceae bacterium,100,53,0,86,304,311,6,13
+DDQIGYYRRATRRIR,mateus_N_81,TNN89108.1,,,,100,,0,61,202,209,6,13
+DDQIGYYRRATRRIR,mateus_N_81,XP_031709107.1,,,,100,,0,61,205,212,6,13
