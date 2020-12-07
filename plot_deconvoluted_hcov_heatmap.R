@@ -90,8 +90,8 @@ plot_figure <- function(hcov_plot_df, figure_path) {
           legend.position = "left") +
     labs(fill = "Max. Homology (%)") +
     scale_fill_gradient(low = "darkseagreen1", high = "darkgreen", na.value = "white") +
-    geom_text(data = computations, aes(x = 168, y = hCoV, label = proportion), size = 2) +
-    coord_cartesian(xlim = c(0, 173), ylim = c(1, 4.9), # This focuses the x-axis on the range of interest
+    geom_text(data = computations, aes(x = 175 + 7, y = hCoV, label = proportion), size = 2) +
+    coord_cartesian(xlim = c(0, 175 + 12), ylim = c(1, 4.9), # This focuses the x-axis on the range of interest
                     clip = 'off')
   
   ggsave(figure_path, plot = hcov_plot, height = 4, width = 8, dpi = 600)

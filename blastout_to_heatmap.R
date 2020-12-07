@@ -46,30 +46,30 @@ blast_to_heatmap <- function(path_to_blastout, path_to_mat, pid_threshold) {
 }
 
 ## Proteome
-proteome_40_mat <- blast_to_heatmap(path_to_blastout = "data/wuhan-hu-1/parsed_proteome_blastout.tsv",
-                                    path_to_mat = "data/wuhan-hu-1/proteome_blast_heatmap_40_PID.merged.csv",
-                                    pid_threshold = 40)
-
-proteome_66_mat <- blast_to_heatmap(path_to_blastout = "data/wuhan-hu-1/parsed_proteome_blastout.tsv",
-                                    path_to_mat = "data/wuhan-hu-1/proteome_blast_heatmap_66_PID.merged.csv",
-                                    pid_threshold = 66)
-
-proteome_80_mat <- blast_to_heatmap(path_to_blastout = "data/wuhan-hu-1/parsed_proteome_blastout.tsv",
-                                    path_to_mat = "data/wuhan-hu-1/proteome_blast_heatmap_80_PID.merged.csv",
-                                    pid_threshold = 80)
+# proteome_40_mat <- blast_to_heatmap(path_to_blastout = "data/wuhan-hu-1/parsed_proteome_blastout.tsv",
+#                                     path_to_mat = "data/wuhan-hu-1/proteome_blast_heatmap_40_PID.merged.csv",
+#                                     pid_threshold = 40)
+# 
+# proteome_66_mat <- blast_to_heatmap(path_to_blastout = "data/wuhan-hu-1/parsed_proteome_blastout.tsv",
+#                                     path_to_mat = "data/wuhan-hu-1/proteome_blast_heatmap_66_PID.merged.csv",
+#                                     pid_threshold = 66)
+# 
+# proteome_80_mat <- blast_to_heatmap(path_to_blastout = "data/wuhan-hu-1/parsed_proteome_blastout.tsv",
+#                                     path_to_mat = "data/wuhan-hu-1/proteome_blast_heatmap_80_PID.merged.csv",
+#                                     pid_threshold = 80)
 
 ## 161 deconvoluted epitopes
 deconv_40_mat <- blast_to_heatmap(path_to_blastout = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv",
                                     path_to_mat = "data/deconvoluted_epitopes/deconvoluted_heatmap_40_PID.merged.csv",
                                     pid_threshold = 40)
 
-deconv_66_mat <- blast_to_heatmap(path_to_blastout = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv",
-                                    path_to_mat = "data/deconvoluted_epitopes/deconvoluted_heatmap_66_PID.merged.csv",
-                                    pid_threshold = 66)
-
-deconv_80_mat <- blast_to_heatmap(path_to_blastout = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv",
-                                    path_to_mat = "data/deconvoluted_epitopes/deconvoluted_heatmap_80_PID.merged.csv",
-                                    pid_threshold = 80)
+# deconv_66_mat <- blast_to_heatmap(path_to_blastout = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv",
+#                                     path_to_mat = "data/deconvoluted_epitopes/deconvoluted_heatmap_66_PID.merged.csv",
+#                                     pid_threshold = 66)
+# 
+# deconv_80_mat <- blast_to_heatmap(path_to_blastout = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv",
+#                                     path_to_mat = "data/deconvoluted_epitopes/deconvoluted_heatmap_80_PID.merged.csv",
+#                                     pid_threshold = 80)
 
 ## Unexposed
 # unexposed_40_mat <- blast_to_heatmap(path_to_blastout = "data/unexposed_epitopes/parsed_unexposed_blastout.tsv",

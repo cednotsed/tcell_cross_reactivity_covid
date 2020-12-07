@@ -57,12 +57,13 @@ parsed_df <- merged_df %>%
   mutate(tax_group = ifelse(tax_group == "Human", "Alphapapillomavirus", tax_group),
          tax_group = ifelse(tax_group %in% c("Candidatus", "unclassified", "uncultured"), tax_group2, tax_group)) %>%
   select(-split, -n_words) %>%
-  filter(tax_group != "bacterium" & sci_name != "Gallus gallus") %>%  # exclude uncultured bacterium
+  filter(tax_group != "bacterium"  # exclude uncultured bacterium 
+         & !grepl("Gallus gallus|cov", sci_name, ignore.case = T)) %>%  
   filter(qcov > 99)
 
 parsed_df %>%
-  # distinct(qseqid)
-#   summarise(count = n_distinct(qseqid))
+distinct(qseqid)
+  # summarise(count = n_distinct(qseqid))
 #   View()
   
 fwrite(parsed_df, "results/non_CoV_hits/1000_alignments/combined_results.clean.csv")
@@ -73,3 +74,11 @@ summarised_df <- parsed_df %>%
   arrange(desc(n_queries))
 
 fwrite(summarised_df, "results/non_CoV_hits/1000_alignments/summarised_results.clean.csv")
+
+
+parsed_df %>%
+  ggplot(aes(x = eval)) +
+  geom_histogram(bins = 200) +
+  xlim(0, 10)
+
+range(parsed_df$eval)

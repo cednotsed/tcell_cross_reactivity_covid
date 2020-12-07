@@ -43,16 +43,11 @@ parse_blastout <- function(path_to_prokka, path_to_entrez, path_to_output) {
 }
 
 ## For proteome wide ##
-proteome <- parse_blastout(path_to_prokka = "data/wuhan-hu-1/blast_wuhan_epitopes.prokka_db.tsv",
-                           path_to_entrez = "data/wuhan-hu-1/blast_wuhan_epitopes.batch_entrez.tsv",
-                           path_to_output = "data/wuhan-hu-1/parsed_proteome_blastout.tsv")
+# proteome <- parse_blastout(path_to_prokka = "data/wuhan-hu-1/blast_wuhan_epitopes.prokka_db.tsv",
+#                            path_to_entrez = "data/wuhan-hu-1/blast_wuhan_epitopes.batch_entrez.tsv",
+#                            path_to_output = "data/wuhan-hu-1/parsed_proteome_blastout.tsv")
 
 # ## For 161 deconvoluted epitopes ##
-# deconv <- parse_blastout(path_to_prokka = "data/deconvoluted_epitopes/blast_deconvoluted_epitopes.prokka_db.tsv",
-#                          path_to_entrez = "data/deconvoluted_epitopes/blast_deconvoluted_epitopes.batch_entrez.tsv",
-#                          path_to_output = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv")
-
-# ## Unexposed peptides
-# unexposed <- parse_blastout(path_to_prokka = "data/unexposed_epitopes/blast_unexposed_epitopes.prokka_db.tsv",
-#                             path_to_entrez = "data/unexposed_epitopes/blast_unexposed_epitopes.batch_entrez.tsv",
-#                             path_to_output = "data/unexposed_epitopes/parsed_unexposed_blastout.tsv")
+deconv <- parse_blastout(path_to_prokka = "data/deconvoluted_epitopes/blast_deconvoluted_epitopes.prokka_db.tsv",
+                         path_to_entrez = "data/deconvoluted_epitopes/blast_deconvoluted_epitopes.batch_entrez.tsv",
+                         path_to_output = "data/deconvoluted_epitopes/parsed_deconvoluted_blastout.tsv")

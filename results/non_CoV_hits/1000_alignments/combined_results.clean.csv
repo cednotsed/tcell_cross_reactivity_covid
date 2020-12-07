@@ -390,3 +390,22 @@ GKIADYNYKLPDDFT,mateus_S_416,SAM02891.1,hypothetical protein [Absidia glauca],Ab
 GKIADYNYKLPDDFT,mateus_S_416,ORZ11476.1,hypothetical protein BCR42DRAFT_421201 [Absidia repens],Absidia repens,Absidia,repens,Absidia repens,58.824,100,5,244,90,106,1,15
 GKIADYNYKLPDDFT,mateus_S_416,WP_075753439.1,hybrid non-ribosomal peptide synthetase/type I polyketide synthase [Sporomusa sphaeroides],Sporomusa sphaeroides,Sporomusa,sphaeroides,Sporomusa sphaeroides,55,100,1,244,2306,2322,1,15
 YNYKLPDDFTGCVIA,mateus_S_421,CCZ82369.1,putative uncharacterized protein [Odoribacter laneus CAG:561],Odoribacter laneus CAG:561,Odoribacter,laneus,Odoribacter laneus CAG:561,100,100,0,86,346,353,3,10
+KWPWYIWLGF,schulien_S_1211,WP_102376127.1,sodium-dependent transporter [Raoultibacter massiliensis],Raoultibacter massiliensis,Raoultibacter,massiliensis,Raoultibacter massiliensis,80,100,2,8.2,85,94,1,10
+KWPWYIWLGF,schulien_S_1211,WP_102379433.1,sodium-dependent transporter [Raoultibacter timonensis],Raoultibacter timonensis,Raoultibacter,timonensis,Raoultibacter timonensis,80,100,2,8.2,85,94,1,10
+KWPWYIWLGF,schulien_S_1211,WP_054324261.1,sodium-dependent transporter [Anaeromassilibacillus sp. Marseille-P3371],Anaeromassilibacillus sp. Marseille-P3371,Anaeromassilibacillus,sp.,Anaeromassilibacillus sp. Marseille-P3371,80,100,2,12,85,94,1,10
+KWPWYIWLGF,schulien_S_1211,WP_087232483.1,MULTISPECIES: sodium-dependent transporter [unclassified Anaeromassilibacillus],unclassified Anaeromassilibacillus,Anaeromassilibacillus,Anaeromassilibacillus,unclassified Anaeromassilibacillus,80,100,2,12,85,94,1,10
+KWPWYIWLGF,schulien_S_1211,NLI14161.1,hypothetical protein [Peptococcaceae bacterium],Peptococcaceae bacterium,Peptococcaceae,bacterium,Peptococcaceae bacterium,64.286,100,1,25,15,28,1,10
+KWPWYIWLGF,schulien_S_1211,WP_134215059.1,hypothetical protein [Pelotomaculum propionicicum],Pelotomaculum propionicicum,Pelotomaculum,propionicicum,Pelotomaculum propionicicum,64.286,100,1,25,11,24,1,10
+KWPWYIWLGF,schulien_S_1211,TCS76227.1,hypothetical protein EDC37_1239 [Pectinatus cerevisiiphilus],Pectinatus cerevisiiphilus,Pectinatus,cerevisiiphilus,Pectinatus cerevisiiphilus,70,100,3,47,559,568,1,10
+KWPWYIWLGF,schulien_S_1211,WP_132551413.1,hypothetical protein [Pectinatus cerevisiiphilus],Pectinatus cerevisiiphilus,Pectinatus,cerevisiiphilus,Pectinatus cerevisiiphilus,70,100,3,47,558,567,1,10
+KWPWYIWLGF,schulien_S_1211,NVB83060.1,putative sulfate exporter family transporter [Kofleriaceae bacterium],Kofleriaceae bacterium,Kofleriaceae,bacterium,Kofleriaceae bacterium,80,100,1,47,229,237,1,10
+KWPWYIWLGF,schulien_S_1211,WP_183790487.1,sensor histidine kinase [Edaphobacter lichenicola],Edaphobacter lichenicola,Edaphobacter,lichenicola,Edaphobacter lichenicola,69.231,100,0,66,14,25,1,10
+KWPWYIWLGF,schulien_S_1211,WP_179581009.1,sensor histidine kinase [Edaphobacter lichenicola],Edaphobacter lichenicola,Edaphobacter,lichenicola,Edaphobacter lichenicola,69.231,100,0,66,14,25,1,10
+KWPWYIWLGF,schulien_S_1211,WP_183813975.1,sensor histidine kinase [Edaphobacter lichenicola],Edaphobacter lichenicola,Edaphobacter,lichenicola,Edaphobacter lichenicola,69.231,100,0,66,14,25,1,10
+KWPWYIWLGF,schulien_S_1211,WP_158942652.1,sensor histidine kinase [Granulicella sp. S190],Granulicella sp. S190,Granulicella,sp.,Granulicella sp. S190,69.231,100,0,66,14,25,1,10
+KWPWYIWLGF,schulien_S_1211,NMB38455.1,DUF2232 domain-containing protein [Firmicutes bacterium],Firmicutes bacterium,Firmicutes,bacterium,Firmicutes bacterium,72.727,100,1,94,213,222,1,10
+KWPWYIWLGF,schulien_S_1211,XP_025640550.1,uncharacterized protein LOC112735197 [Arachis hypogaea],Arachis hypogaea,Arachis,hypogaea,peanut,72.727,100,2,134,216,226,1,10
+KWPWYIWLGF,schulien_S_1211,RYR19532.1,hypothetical protein Ahy_B03g064335 isoform A [Arachis hypogaea],Arachis hypogaea,Arachis,hypogaea,peanut,72.727,100,2,134,184,194,1,10
+KWPWYIWLGF,schulien_S_1211,NBO58026.1,TIGR02206 family membrane protein [Chitinophagia bacterium],Chitinophagia bacterium,Chitinophagia,bacterium,Chitinophagia bacterium,80,100,1,134,210,218,1,10
+KWPWYIWLGF,schulien_S_1211,NBO49555.1,TIGR02206 family membrane protein [Chitinophagia bacterium],Chitinophagia bacterium,Chitinophagia,bacterium,Chitinophagia bacterium,80,100,1,135,199,207,1,10
+KWPWYIWLGF,schulien_S_1211,WP_176029668.1,hypothetical protein [Aquimarina sp. TRL1],Aquimarina sp. TRL1,Aquimarina,sp.,Aquimarina sp. TRL1,56.25,100,1,136,102,117,1,10

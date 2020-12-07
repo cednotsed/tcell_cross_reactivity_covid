@@ -3,8 +3,11 @@ Clostridium,4
 Chloroflexi,3
 Flavobacterium,3
 Ananas,2
+Aquimarina,2
+Arachis,2
 Betaproteobacteria,2
 Blastococcus,2
+Firmicutes,2
 Ktedonobacter,2
 Novosphingobium,2
 Odoribacter,2
@@ -27,11 +30,10 @@ Alcanivorax,1
 Algoriphagus,1
 alpha,1
 Alphaproteobacteria,1
+Anaeromassilibacillus,1
 Anguilla,1
 Anopheles,1
 Aquilegia,1
-Aquimarina,1
-Arachis,1
 Archocentrus,1
 Asterias,1
 Bacillus,1
@@ -52,6 +54,7 @@ Carica,1
 Cellvibrio,1
 Cercospora,1
 Chelonia,1
+Chitinophagia,1
 Chlorobi,1
 Chryseobacterium,1
 Chthonomonadales,1
@@ -64,6 +67,7 @@ Dictyobacter,1
 Diploscapter,1
 Dipodomys,1
 Dysosmobacter,1
+Edaphobacter,1
 Eisenbergiella,1
 Enterococcus,1
 Entotheonella,1
@@ -73,7 +77,6 @@ Escherichia,1
 Eumeta,1
 Ewingella,1
 Extensimonas,1
-Firmicutes,1
 Fischerella,1
 Flagellimonas,1
 Flavonifractor,1
@@ -86,6 +89,7 @@ Fusobacterium,1
 Gammaproteobacteria,1
 Geodermatophilaceae,1
 Gossypium,1
+Granulicella,1
 Halodesulfovibrio,1
 Helicobacter,1
 Hellea,1
@@ -99,6 +103,7 @@ Intestinimonas,1
 Janibacter,1
 Kitasatospora,1
 Klebsiella,1
+Kofleriaceae,1
 Kytococcus,1
 Lachnospiraceae,1
 Lactobacillus,1
@@ -137,9 +142,12 @@ Papaver,1
 Parastagonospora,1
 Parcubacteria,1
 Parvibaculum,1
+Pectinatus,1
 Pectobacterium,1
+Pelotomaculum,1
 Penaeus,1
 Penicillium,1
+Peptococcaceae,1
 Periconia,1
 Peronospora,1
 Physcomitrella,1
@@ -155,6 +163,7 @@ Pseudonocardiales,1
 Pseudorhodobacter,1
 Puccinia,1
 Quinella,1
+Raoultibacter,1
 Rhodococcus,1
 Rhodospirillales,1
 Rhodospirillum,1
