@@ -5,7 +5,7 @@ require(aplot);require(tidyverse);require(reshape2);require(data.table);require(
 
 # Load data
 tree <- read.tree("data/cov_n2531_ml_tree_delta_rerooted.tree")
-epitope.mat <- fread("data/deconvoluted_epitopes/mateus_nina_nelde_blast_heatmap_40_PID.merged.csv")
+epitope.mat <- fread("data/deconvoluted_epitopes/deconvoluted_heatmap_40_PID.merged.csv")
 meta <- fread("data/parsed_host_metadata_FB_LvD_CT.n2531.csv")
 
 # Match tips to metadata
@@ -104,7 +104,7 @@ hm_with_annot <- ggplot(plot_df) +
 ggsave("results/deconvoluted_epitopes/hm_with_text.merged.png", plot = hm_with_annot, dpi = 200, width = 15, height = 15)
 
 # Combine plots
-png('results/deconvoluted_epitopes/mateus_nina_nelde_sars_2_genome_heatmap_raxml_delta_rooted_40_PID.merged.png', width = 40, height = 15, units = 'in', res = 300)
+png('results/deconvoluted_epitopes/deconvoluted_epitope_heatmap_raxml_delta_rooted_40_PID.merged.png', width = 40, height = 15, units = 'in', res = 300)
 par(mar = c(10.1, 4.1, 4.1, 2.1), xpd = T)
 hm %>% insert_left(p)
 dev.off()

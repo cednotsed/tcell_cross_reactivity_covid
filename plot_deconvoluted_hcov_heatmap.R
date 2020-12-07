@@ -174,4 +174,3 @@ unexplained_df <- get_epitope_prop(epitope_list = unexplained,
 # For all epitopes
 all_df <- get_epitope_prop(epitope_list = protein_meta$Query, 
                            path_to_output = "data/deconvoluted_epitopes/prop_of_all_epitopes.merged.csv")
-

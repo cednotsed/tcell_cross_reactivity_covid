@@ -47,13 +47,29 @@ merged_df <- protein_meta %>%
   right_join(merged_df, by = "qseqid") %>%
   arrange(desc(qcov, pident))
 
-fwrite(merged_df, "results/non_CoV_hits/1000_alignments/combined_results.csv")
+merged_df <- merged_df %>%
+  rename(sci_name = "Scientific Name") %>%
+  mutate(split = strsplit(sci_name, " "), n_words = lengths(split))
 
-summarised_df <- merged_df %>%
-  rename(name = "Scientific Name") %>%
-  group_by(name) %>%
+parsed_df <- merged_df %>%
+  filter(sci_name != "") %>%
+  separate(sci_name, into = c("tax_group", "tax_group2"), sep = " ", remove = F) %>%
+  mutate(tax_group = ifelse(tax_group == "Human", "Alphapapillomavirus", tax_group),
+         tax_group = ifelse(tax_group %in% c("Candidatus", "unclassified", "uncultured"), tax_group2, tax_group)) %>%
+  select(-split, -n_words) %>%
+  filter(tax_group != "bacterium" & sci_name != "Gallus gallus") %>%  # exclude uncultured bacterium
+  filter(qcov > 99)
+
+parsed_df %>%
+  # distinct(qseqid)
+#   summarise(count = n_distinct(qseqid))
+#   View()
+  
+fwrite(parsed_df, "results/non_CoV_hits/1000_alignments/combined_results.clean.csv")
+
+summarised_df <- parsed_df %>%
+  group_by(tax_group) %>%
   summarise(n_queries = n_distinct(qseqid)) %>%
   arrange(desc(n_queries))
 
-fwrite(summarised_df, "results/non_CoV_hits/1000_alignments/summarised_results.csv")
-
+fwrite(summarised_df, "results/non_CoV_hits/1000_alignments/summarised_results.clean.csv")
