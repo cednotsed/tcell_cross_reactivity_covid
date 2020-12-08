@@ -20,4 +20,4 @@ This repository contains all source code for the analyses performed and the resu
 [**(X)**](https://tinyurl.com/y6eee5ap) \
 [**(Y)**](utils/merge_web_blast.R) \
 \
-Direct any queries to me! (cedriccstan@gmail.com)\
+Direct any queries to me! (cedriccstan@gmail.com)
