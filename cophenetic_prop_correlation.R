@@ -109,79 +109,7 @@ combined
 ggsave("results/deconvoluted_epitopes/cophenetic_distance_prop.combined.png", plot = combined, dpi = 300, height = 5, width = 8)
 fwrite(filtered_df, "results/deconvoluted_epitopes/cophenetic_distance_prop.csv")
 
-# # Raw points
-# plt1 <- ggplot(filtered_df) +
-#   geom_point(alpha = 0.3, aes(x = cophenetic_distance, y = prop_hits, color = Genus_clean)) +
-#   geom_point(data = annot_hcov, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "black") +
-#   geom_point(data = annot_sars, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "red") +
-#   geom_point(data = annot_pcov, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "blue") +
-#   geom_point(data = annot_ratg13, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "firebrick") +
-#   geom_point(data = annot_RmYN02, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "saddlebrown") +
-#   labs(x = "Cophenetic distance", y = "Proportion of epitopes with detectable homology", color = "Viral genus") +
-#   ylim(0, 1) +
-#   theme(legend.position = "none")
 
-# annot_hcov <- plot_df %>%
-#   filter(grepl("NL63|OC43|HKU1|229E", Species_clean) & Host == "Homo sapiens")
-# annot_sars <- plot_df %>%
-#   filter(grepl("SARS", Species_clean) & Host == "Homo sapiens")
-# annot_pcov <- plot_df %>%
-#   filter(grepl("pcov", GenBank_Title, ignore.case = T))
-# 
-# annot_ratg13 <- plot_df %>%
-#   filter(grepl("ratg13", GenBank_Title, ignore.case = T))
-# 
-# annot_RmYN02 <- plot_df %>%
-#   filter(Accession == "EPIISL412977")
-# 
-# plt1 <- ggplot(plot_df) +
-#   geom_point(alpha = 0.3, aes(x = cophenetic_distance, y = prop_hits, color = Genus_clean)) +
-#   geom_point(data = annot_hcov, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "black") +
-#   geom_point(data = annot_sars, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "red") +
-#   geom_point(data = annot_pcov, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "blue") +
-#   geom_point(data = annot_ratg13, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "firebrick") +
-#   geom_point(data = annot_RmYN02, aes(x = cophenetic_distance, y = prop_hits),
-#              color = "saddlebrown") +
-#   labs(x = "Cophenetic distance", y = "Proportion of epitopes with detectable homology", color = "Viral genus") +
-#   ylim(0, 1) +
-#   theme(legend.position = "none")
-# 
-# plt2 <- ggplot(plot_df) +
-#   geom_point(alpha = 0.3, aes(x = log_cophenetic_distance, y = prop_hits, color = Genus_clean)) +
-#   geom_smooth(aes(x = log_cophenetic_distance, y = prop_hits), 
-#               method = "lm", 
-#               se = T,
-#               color = "black",
-#               size = 0.5) + 
-#   geom_point(data = annot_hcov, aes(x = log_cophenetic_distance, y = prop_hits),
-#              color = "black") +
-#   geom_point(data = annot_sars, aes(x = log_cophenetic_distance, y = prop_hits),
-#              color = "red") +
-#   geom_point(data = annot_pcov, aes(x = log_cophenetic_distance, y = prop_hits),
-#              color = "blue") +
-#   geom_point(data = annot_ratg13, aes(x = log_cophenetic_distance, y = prop_hits),
-#              color = "firebrick") +
-#   geom_point(data = annot_RmYN02, aes(x = log_cophenetic_distance, y = prop_hits),
-#              color = "saddlebrown") +
-#   labs(x = "log(distance)", y = "Proportion of epitopes with detectable homology", color = "Viral genus") +
-#   ylim(0, 1)
-# 
-# plt3 <- plt2 +
-#   theme(legend.position = "none",
-#         axis.text.y = element_blank(),
-#         axis.title.y = element_blank(),
-#         axis.ticks.y = element_blank())
-# 
-# combined <- ggarrange(plt1, plt3, ncol = 2)
 
 
 

@@ -2,9 +2,9 @@ rm(list = ls())
 setwd("~/git_repos/tcell_cross_reactivity_covid")
 require(tidyverse); require(data.table); require(ggplot2); require(seqinr)
 
-deconv_df <- fread("data/deconvoluted_epitopes/deconvoluted_epitopes.csv")
+df <- fread("data/deconvoluted_epitopes/deconvoluted_epitopes.csv")
 
-deconv_df <- deconv_df %>% 
+deconv_df <- df %>% 
   unite("query", study, protein, start, sep = "_")
 
 write.fasta(as.list(deconv_df$sequence), deconv_df$query, "data/deconvoluted_epitopes/deconvoluted_epitopes.fasta")
@@ -18,7 +18,7 @@ deconv_df5 <- deconv_df[81:100, ]
 deconv_df6 <- deconv_df[101:120, ]
 deconv_df7 <- deconv_df[121:140, ]
 deconv_df8 <- deconv_df[141:160, ]
-deconv_df9 <- deconv_df[161:175, ]
+deconv_df9 <- deconv_df[161:177, ]
 
 write.fasta(as.list(deconv_df1$sequence), deconv_df1$query, "data/deconvoluted_epitopes/deconvoluted_epitopes.part1.fasta")
 write.fasta(as.list(deconv_df2$sequence), deconv_df2$query, "data/deconvoluted_epitopes/deconvoluted_epitopes.part2.fasta")
@@ -29,3 +29,20 @@ write.fasta(as.list(deconv_df6$sequence), deconv_df6$query, "data/deconvoluted_e
 write.fasta(as.list(deconv_df7$sequence), deconv_df7$query, "data/deconvoluted_epitopes/deconvoluted_epitopes.part7.fasta")
 write.fasta(as.list(deconv_df8$sequence), deconv_df8$query, "data/deconvoluted_epitopes/deconvoluted_epitopes.part8.fasta")
 write.fasta(as.list(deconv_df9$sequence), deconv_df9$query, "data/deconvoluted_epitopes/deconvoluted_epitopes.part9.fasta")
+
+
+prop_table <- df %>%
+  group_by(type, study) %>%
+  tally() %>%
+  spread(key = type, value = n) %>%
+  replace(is.na(.), 0) %>%
+  bind_rows(summarise(., 
+                      across(where(is.numeric), sum), 
+                      across(where(is.character), ~"Total")))
+
+fwrite(prop_table, "results/deconvoluted_epitopes/frequency_table_by_tcell_study.csv")
+
+
+
+
+

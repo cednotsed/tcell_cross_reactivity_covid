@@ -90,8 +90,8 @@ plot_figure <- function(hcov_plot_df, figure_path) {
           legend.position = "left") +
     labs(fill = "Max. Homology (%)") +
     scale_fill_gradient(low = "darkseagreen1", high = "darkgreen", na.value = "white") +
-    geom_text(data = computations, aes(x = 175 + 7, y = hCoV, label = proportion), size = 2) +
-    coord_cartesian(xlim = c(0, 175 + 12), ylim = c(1, 4.9), # This focuses the x-axis on the range of interest
+    geom_text(data = computations, aes(x = 177 + 7, y = hCoV, label = proportion), size = 2) +
+    coord_cartesian(xlim = c(0, 177 + 12), ylim = c(1, 4.9), # This focuses the x-axis on the range of interest
                     clip = 'off')
   
   ggsave(figure_path, plot = hcov_plot, height = 4, width = 8, dpi = 600)
@@ -110,24 +110,6 @@ blastout <- blastout %>%
 hcov_plot_df <- parse_blastout(blastout = blastout)
 
 plot_figure(hcov_plot_df = hcov_plot_df, figure_path = figure_path)
-
-########### NCBI virus annotations #####################################################
-# meta <- fread("data/ncbi_virus_protein_metadata.csv")
-# figure_path <- "results/deconvoluted_epitopes/deconvoluted_hcov_max_homology.ncbi_virus.png"
-# blastout <- fread('data/deconvoluted_epitopes/blast_mateus_nina_nelde_epitopes.ncbi_virus.tsv')
-# colnames(blastout) <- c('qseqid','sseqid','pident','length','mismatch',
-#                         'gapopen', 'qstart', 'qend', 'sstart', 'send',
-#                         'evalue', 'bitscore')
-# 
-# blastout <- blastout %>%
-#   separate(sseqid, sep = "\\.", c("Accession", NA), extra = "merge", remove = F) %>%
-#   mutate(qseqid = str_replace(qseqid, "-", "_")) %>%
-#   left_join(meta, by = "Accession") %>%
-#   rename(Species_clean = Species)
-# 
-# hcov_plot_df <- parse_blastout(blastout = blastout)
-# 
-# plot_figure(hcov_plot_df = hcov_plot_df, figure_path = figure_path)
 
 ###### Calculate percentage of unexplainable epitopes that can be explained by each virus
 get_epitope_prop <- function(epitope_list, path_to_output) {

@@ -15,22 +15,22 @@
 #query=data/unexposed_epitopes/unexposed_epitopes.fasta
 
 ## Blastp batch entrez annotations ##
-#db=data/entrez_proteins/cov_protein_2531_blast_db/protein_2531_blast_db
+db=data/entrez_proteins/cov_protein_2531_blast_db/protein_2531_blast_db
 
 #out=data/wuhan-hu-1/blast_wuhan_epitopes.batch_entrez.tsv
 #query=data/wuhan-hu-1/wuhan-hu-1_epitopes.fasta
 
-#out=data/deconvoluted_epitopes/blast_deconvoluted_epitopes.batch_entrez.tsv
-#query=data/deconvoluted_epitopes/deconvoluted_epitopes.fasta
+out=data/deconvoluted_epitopes/blast_deconvoluted_epitopes.batch_entrez.tsv
+query=data/deconvoluted_epitopes/deconvoluted_epitopes.fasta
 
 ## Blastp prokka annotations ##
-db=data/prokka_proteins/prokka_2531_CoV_protein_blast_db/prokka_2531_CoV_protein_blast_db
+#db=data/prokka_proteins/prokka_2531_CoV_protein_blast_db/prokka_2531_CoV_protein_blast_db
 
 #out=data/wuhan-hu-1/blast_wuhan_epitopes.prokka_db.tsv
 #query=data/wuhan-hu-1/wuhan-hu-1_epitopes.fasta
 
-out=data/deconvoluted_epitopes/blast_deconvoluted_epitopes.prokka_db.tsv
-query=data/deconvoluted_epitopes/deconvoluted_epitopes.fasta
+#out=data/deconvoluted_epitopes/blast_deconvoluted_epitopes.prokka_db.tsv
+#query=data/deconvoluted_epitopes/deconvoluted_epitopes.fasta
 
 #~/ncbi-blast-2.11.0+/bin/blastp -db ${db} \
 #	-task blastp \
