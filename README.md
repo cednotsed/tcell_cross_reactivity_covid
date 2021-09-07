@@ -4,7 +4,7 @@
 \
 This repository contains all source code for the analyses performed and the results in the associated manuscript. \
 \
-![alt text](results/analysis_pipeline.jpg "Analysis Pipeline") \
+![alt text](results/analysis_pipeline.jpg.png "Analysis Pipeline") \
 \
 **Links to scripts** \
 [**(A)**](utils/A_parse_csv_epitopes_to_fasta.R) 
