@@ -4,7 +4,7 @@
 \
 This repository contains all source code for the analyses performed and the results in the associated manuscript. \
 \
-![alt text](results/analysis_pipeline_resize.jpg "Analysis Pipeline") \
+![alt text](results/analysis_pipeline.jpg "Analysis Pipeline") \
 \
 **Links to scripts** \
 [**(A)**](utils/A_parse_csv_epitopes_to_fasta.R) 
@@ -14,10 +14,10 @@ This repository contains all source code for the analyses performed and the resu
 [**(D)**](D_blastout_to_heatmap.R) 
 [**(E1)**](E1_raxml_tree_heatmap.R) 
 [**(E2)**](E2_raxml_tree_heatmap_deconvoluted_epitopes.R) 
-[**(F)**](F_plot_deconvoluted_hcov_heatmap.R) 
-[**(F1)**](F1_F3_deconvoluted_proportion_of_unexplained_hits.R) 
-[**(F2)**](F2_cophenetic_prop_correlation.R) 
-[**(F3)**](F1_F3_deconvoluted_proportion_of_unexplained_hits.R) 
+[**(F)**](F_F1_analyse_deconvoluted_epitopes.R) 
+[**(F1)**](F_F1_analyse_deconvoluted_epitopes.R) 
+[**(F2)**](F2_mash_prop_regression.R) 
+[**(F3)**](F3_deconvoluted_proportion_of_unexplained_hits.R) 
 [**(X)**](https://tinyurl.com/y6eee5ap) 
 [**(Y)**](utils/Y_merge_web_blast.R) \
 \
